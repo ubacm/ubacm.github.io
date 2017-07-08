@@ -1,0 +1,247 @@
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+a {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color: #4A4A4A;
+  margin-top: 15px;
+  font-size: 17px;
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+  margin: 0px;
+  margin-top: 5px;
+  font-size: 37px;
+  font-weight: 700;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h4 {
+  margin: 0px;
+  margin-top: 20px;
+  font-size: 15px;
+  font-weight: 400;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body{
+  background-color: #F3F3F3;
+  margin: 0px;
+}
+
+@media only screen and (max-width: 768px) {
+    h2 {
+        font-size: 25px;
+    }
+    h4 {
+        font-size: 15px;
+    }
+
+    .ub-navbar img{
+      padding-left: 10px !important;
+    }
+
+    .header .intro-message{
+      display: block !important;
+      text-align: center !important;
+    }
+
+    .header img{
+      float: none !important;
+    }
+
+    .header .intro-message .text{
+      margin: auto !important;
+      margin-top: 20px !important;
+      float: none !important;
+      padding: 0px !important;
+      width: 80% !important;
+    }
+
+    .header .buttons{
+      top: 120px !important;
+    }
+
+    .footer p{
+      font-size: 12px !important;
+    }
+}
+
+.ub-navbar {
+  display: block;
+  height: 55px;
+  width: 100%;
+  background-color: white;
+}
+
+.ub-navbar img{
+  height: 35px;
+  padding-left: 30px;
+  margin-top: 10px;
+}
+
+.ub-navbar p{
+  line-height: 55px;
+  color: #4A4A4A;
+
+  padding-left: 10px;
+  margin: 0px;
+
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.ub-navbar a{
+  display: inline-flex;
+  text-decoration: none;
+}
+
+.ub-navbar .page-segues{
+  float: right;
+  line-height: 55px;
+}
+
+.ub-navbar .page-segues a{
+  font-size: 15px;
+  padding-right: 20px;
+  color: #4A4A4A;
+}
+
+.header{
+  height: 450px;
+  width: 100%;
+  text-align: center;
+
+  background-image: url("bg-image.png");
+  background-size: cover;
+}
+
+.header img{
+  float: left;
+  height: 105px;
+}
+
+.header .intro-message{
+  display: inline-block;
+  position: relative;
+  top: 75px;
+  text-align: left;
+}
+
+.header .intro-message .text{
+  float: right;
+  width: 450px;
+  color: white;
+
+  padding-left: 50px;
+}
+
+.header .buttons{
+  position: relative;
+  text-align: center;
+  top: 150px;
+  height: 45px;
+}
+
+.header .buttons img{
+  float: none;
+  width: auto;
+  height: 45px;
+  margin-left: 0px;
+}
+
+.row-header{
+  width: 95%;
+  height: 50px;
+  margin: auto;
+  margin-top: 20px;
+
+  text-align: center;
+  line-height: 50px;
+  color: white;
+  background-color: #757575;
+
+  font-size: 20px;
+  font-weight: 600;
+
+  border-radius: 5px 5px 0px 0px;
+  border: 1px solid #757575;
+}
+
+.row-header img{
+  width: 30px;
+  height: 30px;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.board-members{
+  overflow: hidden;
+  width: 95%;
+  margin: auto;
+  margin-bottom: 80px;
+  padding-top: 25px;
+
+  text-align: center;
+  background-color: #FAFAFA;
+  border-radius: 0px 0px 5px 5px;
+  border: 1px solid #757575;
+}
+
+.board-members p{
+  color: #9B9B9B;
+}
+
+.board-members img{
+  height: 125px;
+  width: 125px;
+  border-radius: 75px;
+  box-shadow: 0px 0px 10px grey;
+}
+
+.board-members .col-xs-6{
+  margin: auto;
+  padding-left: 23px;
+  padding-right: 23px;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0px;
+  opacity: 0.5;
+
+  margin: 0px;
+  height: 50px;
+  width: 100%;
+  background-color: #EAEAEA;
+}
+
+.footer p{
+  float: left;
+
+  margin: 0px;
+  margin-left: 20px;
+
+  font-size: 15px;
+  font-weight: 400;
+
+  color: #9B9B9B;
+  line-height: 50px;
+}
+
+.footer .social-buttons{
+  float: right;
+  margin-right: 10px;
+  line-height: 50px;
+}
+
+.footer .social-buttons img{
+  margin-right: 10px;
+  width: 25px;
+}
