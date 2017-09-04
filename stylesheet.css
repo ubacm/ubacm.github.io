@@ -151,6 +151,11 @@ body {
   margin-left: 0px;
 }
 
+.header .buttons a{
+  margin: 5px;
+  padding: 5px;
+}
+
 .row-header{
   width: 95%;
   height: 50px;
