@@ -111,7 +111,7 @@ body {
   text-align: center;
   position: relative;
 
-  background: url("bg-image.png") no-repeat top center;
+  background: url("images/bg-image.png") no-repeat top center;
   background-size: cover;
 }
 
