@@ -37,16 +37,16 @@ body {
       padding-left: 10px !important;
     }
 
-    .header .intro-message{
+    header .intro-message{
       display: block !important;
       text-align: center !important;
     }
 
-    .header img{
+    header img{
       float: none !important;
     }
 
-    .header .intro-message .text{
+    header .intro-message .text{
       margin: auto !important;
       margin-top: 20px !important;
       float: none !important;
@@ -54,11 +54,11 @@ body {
       width: 80% !important;
     }
 
-    .header .buttons{
+    header .buttons{
       top: 120px !important;
     }
 
-    .footer p{
+    footer p{
       font-size: 12px !important;
     }
 }
@@ -70,13 +70,13 @@ body {
   background-color: white;
 }
 
-.ub-navbar img{
+.ub-navbar img {
   height: 35px;
   padding-left: 30px;
   margin-top: 10px;
 }
 
-.ub-navbar p{
+.ub-navbar p {
   line-height: 55px;
   color: #4A4A4A;
 
@@ -87,23 +87,23 @@ body {
   font-weight: 600;
 }
 
-.ub-navbar a{
+.ub-navbar a {
   display: inline-flex;
   text-decoration: none;
 }
 
-.ub-navbar .page-segues{
+.ub-navbar .page-segues {
   float: right;
   line-height: 55px;
 }
 
-.ub-navbar .page-segues a{
+.ub-navbar .page-segues a {
   font-size: 15px;
   padding-right: 20px;
   color: #4A4A4A;
 }
 
-.header{
+header {
   align-items: center;
   display: flex;
   height: 600px;
@@ -115,22 +115,22 @@ body {
   background-size: cover;
 }
 
-.header .header-content {
+header .header-content {
   width: 100%;
 }
 
-.header img{
+header img {
   float: left;
   height: 105px;
 }
 
-.header .intro-message{
+header .intro-message {
   display: inline-block;
   top: 75px;
   text-align: left;
 }
 
-.header .intro-message .text{
+header .intro-message .text {
   float: right;
   width: 500px;
   color: white;
@@ -138,25 +138,39 @@ body {
   padding-left: 50px;
 }
 
-.header .buttons{
+header .buttons {
   text-align: center;
-  margin-top: 40px;
-  height: 45px;
+  margin: 40px 0;
 }
 
-.header .buttons img{
+header .buttons img {
   float: none;
   width: auto;
   height: 45px;
   margin-left: 0px;
 }
 
-.header .buttons a{
+header .buttons a {
   margin: 5px;
   padding: 5px;
 }
 
-.row-header{
+header ul.social-links {
+  padding: 0;
+  list-style: none;
+}
+
+header ul.social-links li {
+  display: inline-block;
+  padding: .5rem;
+}
+
+header ul.social-links a {
+  color: white;
+  padding: .5rem;
+}
+
+.row-header {
   width: 95%;
   height: 50px;
   margin: auto;
@@ -174,74 +188,57 @@ body {
   border: 1px solid #757575;
 }
 
-.row-header img{
+.row-header img {
   width: 30px;
   height: 30px;
   margin-left: 10px;
   margin-bottom: 5px;
 }
 
-.board-members{
-  overflow: hidden;
-  width: 95%;
-  margin: auto;
-  margin-bottom: 70px;
-  padding-top: 25px;
-
-  text-align: center;
+.board-members {
   background-color: #FAFAFA;
   border-radius: 0px 0px 5px 5px;
   border: 1px solid #757575;
+  text-align: center;
+  overflow: hidden;  
+  padding-top: 25px;
+  margin: 0 auto 70px auto;
+  width: 95%;
 }
 
-.board-members p{
+.board-members p {
   color: #9B9B9B;
 }
 
-.board-members img{
-  height: 125px;
-  width: 125px;
+.board-members img {
+  height: 100px;
+  width: 100px;
   border-radius: 50%;
   box-shadow: 0px 0px 10px grey;
 }
 
-.board-members .col-xs-6{
+.board-members .col-xs-6 {
   margin: auto;
   padding-left: 23px;
   padding-right: 23px;
 }
 
-.footer{
-  position: fixed;
-  bottom: 0px;
+footer {
   opacity: 0.5;
 
-  margin: 0px;
   height: 50px;
   width: 100%;
   background-color: #EAEAEA;
 }
 
-.footer p{
-  float: left;
+footer p {
+  text-align: center;
 
-  margin: 0px;
-  margin-left: 20px;
+  margin: 0;
 
   font-size: 15px;
   font-weight: 400;
 
   color: #9B9B9B;
   line-height: 50px;
-}
-
-.footer .social-buttons{
-  float: right;
-  margin-right: 10px;
-  line-height: 50px;
-}
-
-.footer .social-buttons img{
-  margin-right: 10px;
-  width: 25px;
 }

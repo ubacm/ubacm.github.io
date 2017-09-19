@@ -30,6 +30,7 @@
 
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
@@ -50,7 +51,7 @@
       </a>
     </div> -->
   </div>
-  <div class="header">
+  <header>
     <div class="header-content">
       <div class="intro-message">
         <img src="images/logo-icon.png" alt="UB ACM logo">
@@ -68,8 +69,30 @@ for developers of all skill levels and disciplines.</h4>
           <img src="images/google-cal-button.png" alt="Google Calendar">
         </a>
       </div>
+      <ul class="social-links">
+        <li>
+          <a href="https://www.facebook.com/ubacm.org" target="_blank" rel="noopener" aria-label="Facebook">
+            <i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+        <li>
+          <a href="https://medium.com/ubacm" target="_blank" rel="noopener" aria-label="Medium">
+            <i class="fa fa-medium fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+        <li>
+            <a href="https://github.com/ubacm" target="_blank" rel="noopener" aria-label="GitHub">
+              <i class="fa fa-github fa-2x" aria-hidden="true"></i>
+            </a>
+          </li>
+        <li>
+          <a href="https://drive.google.com/drive/folders/0B4xpI-GuLe8MRlpnX3dGWjIyQWs?usp=sharing" target="_blank" rel="noopener" aria-label="Google Drive">
+            <i class="fa fa-hdd-o fa-2x" aria-hidden="true"></i>
+          </a>
+        </li>
+      </ul>
     </div>
-  </div>
+  </header>
   <!--<div class="row">
     <div class="col-xs-12 col-md-8">.col-xs-12 .col-md-8</div>
     <div class="col-xs-6 col-md-4">.col-xs-6 .col-md-4</div>
@@ -79,61 +102,64 @@ for developers of all skill levels and disciplines.</h4>
       Executive Board Members
       <img src="images/members-icon.png" alt="Members icon">
     </div>
-    <div class="row board-members">
-      <div class="col-xs-6">
-        <a href="http://angus.works/" target="_blank" rel="noopener">
-          <img src="images/angus.jpg" alt="Picture of Angus">
-          <h1>Angus Lam</h1>
-          <p>President</p>
-        </a>
+    <div class="board-members">
+      <div class="row">
+        <div class="col-xs-6 col-md-3">
+          <a href="http://angus.works/" target="_blank" rel="noopener">
+            <img src="images/angus.jpg" alt="Picture of Angus">
+            <h1>Angus Lam</h1>
+            <p>President</p>
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <a href="http://rshanule.github.io/" target="_blank" rel="noopener">
+            <img src="images/ricky.jpg" alt="Picture of Ricky">
+            <h1>Ricky Hanulewicz</h1>
+            <p>Vice President</p>
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <a href="https://www.stephenorjames.com/" target="_blank" rel="noopener">
+            <img src="images/stephen.jpg" alt="Picture of Stephen">
+            <h1>Stephen James</h1>
+            <p>Treasurer</p>
+          </a>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <a href="http://www.arthurdearaujo.com/" target="_blank" rel="noopener">
+            <img src="images/arthur.png" alt="Picture of Arthur">
+            <h1>Arthur De Araujo</h1>
+            <p>Secretary</p>
+          </a>
+        </div>
       </div>
-      <div class="col-xs-6">
-        <a href="http://rshanule.github.io/" target="_blank" rel="noopener">
-          <img src="images/ricky.jpg" alt="Picture of Ricky">
-          <h1>Ricky Hanulewicz</h1>
-          <p>Vice President</p>
-        </a>
-      </div>
-      <div class="col-xs-6">
-        <a href="https://www.stephenorjames.com/" target="_blank" rel="noopener">
-          <img src="images/stephen.jpg" alt="Picture of Stephen">
-          <h1>Stephen James</h1>
-          <p>Treasurer</p>
-        </a>
-      </div>
-      <div class="col-xs-6">
-        <a href="http://www.arthurdearaujo.com/" target="_blank" rel="noopener">
-          <img src="images/arthur.png" alt="Picture of Arthur">
-          <h1>Arthur De Araujo</h1>
-          <p>Secretary</p>
-        </a>
-      </div>
-      <div class="col-xs-6">
-        <img src="images/gamal.jpg" alt="Picture of Gamal">
-        <h1>Gamal Amin</h1>
-        <p>Social Media</p>
-      </div>
-      <div class="col-xs-6">
-        <img src="images/richard.jpg" alt="Picture of Richard">
-        <h1>Richard Guo</h1>
-        <p>Event Organizer</p>
+      <div class="row">
+        <div class="col-xs-6 col-md-3">
+          <img src="images/richard.jpg" alt="Picture of Richard">
+          <h1>Richard Guo</h1>
+          <p>Event Organizer</p>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <img src="http://via.placeholder.com/100x100?text=&nbsp;" alt="Picture of Tristan">
+          <h1>Tristan Wiley</h1>
+          <p>Community Coordinator</p>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <img src="http://via.placeholder.com/100x100?text=&nbsp;" alt="Picture of Tristan">
+          <h1>Liesel Vaidya</h1>
+          <p>Community Coordinator</p>
+        </div>
+        <div class="col-xs-6 col-md-3">
+          <img src="http://via.placeholder.com/100x100?text=&nbsp;" alt="Picture of Tristan">
+          <h1>Mike Klein</h1>
+          <p>Community Coordinator</p>
+        </div>
       </div>
     </div>
   </div>
-  <div class="footer">
+  <footer>
     <p>Designed and built by Arthur De Araujo</p>
-    <div class="social-buttons">
-      <a href="https://github.com/ubacm" target="_blank" rel="noopener">
-        <img src="images/github-icon.png" alt="GitHub icon">
-      </a>
-      <a href="https://twitter.com/ub_acm" target="_blank" rel="noopener">
-        <img src="images/twitter-icon.png" alt="Twitter icon">
-      </a>
-      <a href="https://www.facebook.com/groups/ubacm/" target="_blank" rel="noopener">
-        <img src="images/facebook-icon.png" alt="Facebook icon">
-      </a>
-    </div>
-  </div>
+  </footer>
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
