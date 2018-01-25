@@ -1,0 +1,14 @@
+@import '../variables';
+
+.partial__footer {
+  background: $accent-color;
+  color: $muted-color;
+  font-size: 12px;
+  padding: $spacing 0;
+
+  ul.links {
+    a {
+      color: $white-color;
+    }
+  }
+}

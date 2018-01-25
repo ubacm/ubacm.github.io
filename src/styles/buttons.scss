@@ -1,0 +1,43 @@
+@import 'variables';
+
+a {
+  display: inline
+}
+
+.button {
+  align-items: center;
+  box-shadow: 0 1px 4px $grey-color;
+  display: inline-flex;
+  font-size: 14px;
+  font-weight: 400 !important;
+  letter-spacing: 1px;
+  transition: all 0.5s ease;
+
+  &:hover {
+    filter: saturate(200%);
+  }
+}
+
+.button-primary, .button_primary {
+  color: white !important;
+  background-color: $secondary-color !important;
+  border-bottom: 5px solid $white-color !important;
+  border-left: 1px solid $white-color !important;
+  border-right: 1px solid $white-color !important;
+  border-top: 1px solid $white-color !important;
+}
+
+.button_secondary {
+  color: white !important;
+  background-color: $terniary-color !important;
+  border-bottom: 5px solid $white-color !important;
+  border-left: 1px solid $white-color !important;
+  border-right: 1px solid $white-color !important;
+  border-top: 1px solid $white-color !important;
+}
+
+.icon-button {
+  > i.fab {
+    margin-right: $spacing / 2;
+  }
+}

@@ -1,0 +1,63 @@
+@import '../variables';
+
+.partial__header {
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+
+  .wrapper {
+    background: $white-color;
+    box-shadow: 0 1px 4px $grey-color;
+    border-bottom: 5px solid $accent-color;
+    border-right: 1px solid #efefef;
+    border-right: 1px solid #efefef;
+    border-right: 1px solid #efefef;
+    border-radius: $rounded-corner;
+    height: 70px;
+    margin: $spacing * 2 0;
+    padding: $spacing;
+    position: relative;
+    
+    > .branding {
+      align-items: center;
+      display: flex;
+      height: 100%;
+      
+      > a {
+        position: absolute;
+
+        > img.logo {
+          height: 100px;
+          width: auto;
+        }
+      }
+    }
+  
+    > .navigation {
+      align-items: center;
+      display: flex;
+      height: 100%;
+      position: absolute;
+      right: 0;
+      top: 0;
+  
+      > ul.links {
+        display: block;
+        margin: 0 $spacing 0 0;
+  
+        > li {
+          display: inline-block;
+          margin-bottom: 0;
+          margin-right: $spacing;
+  
+          > a {
+            color: $secondary-color;
+            font-size: 20px;
+            font-weight: 800;
+            text-decoration: none;
+          }
+        }
+      }
+    }  
+  }
+}
