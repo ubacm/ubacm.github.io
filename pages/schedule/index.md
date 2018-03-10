@@ -21,22 +21,6 @@ Remember that all of our member events are optional, but we'd love for you to co
     </div>
     <div class="copy">
       <div class="name">
-        Introduction to Linux
-      </div>
-      <div class="date">
-        March 5th, 2018 6pm-8pm Davis 101
-      </div>
-      <div class="description">
-        New to Linux or the terminal? Let's change that by introducing you to some Linux commands, while also giving you a sneak peek at a few other features. Hosted by Stephen James @StephenOrJames.
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
-      <i class="fas fa-users fa-3x"></i><br />
-    </div>
-    <div class="copy">
-      <div class="name">
         Introduction to Android Development
       </div>
       <div class="date">
@@ -311,6 +295,22 @@ Remember that all of our member events are optional, but we'd love for you to co
         <strong>First-come First-serve:</strong> The rest of the 15 spots will be first-come first-serve on the day of. Members can purchase their own games at the alley.<br />
         <br />
         <strong>Rides:</strong> Stay tuned in #general for rides to the event.
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-users fa-3x"></i><br />
+    </div>
+    <div class="copy">
+      <div class="name">
+        Introduction to Linux
+      </div>
+      <div class="date">
+        March 5th, 2018 6pm-8pm Davis 101
+      </div>
+      <div class="description">
+        New to Linux or the terminal? Let's change that by introducing you to some Linux commands, while also giving you a sneak peek at a few other features. Hosted by Stephen James @StephenOrJames.
       </div>
     </div>
   </div>
