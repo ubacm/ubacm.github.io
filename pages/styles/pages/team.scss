@@ -1,0 +1,21 @@
+@import '../variables';
+
+.page__team {
+  .team_member {
+    > .name {
+      color: $accent-color;
+      font-weight: 800;
+    }
+
+    > .title {
+      font-weight: 800;
+    }
+
+    > img.profile {
+      border-radius: $rounded-corner;
+      width: 100%;
+      max-width: 200px;
+      height: auto;
+    }
+  }
+}

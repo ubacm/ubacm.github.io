@@ -1,0 +1,58 @@
+@import '../variables';
+
+.page__schedule {
+  &.past_events {
+    .event {
+      background: $grey-color;
+      color: $muted-color;
+
+      > .copy > .name {
+        color: $white-color !important;
+      }
+    }
+  }
+
+  .event {
+    align-items: center;
+    border: 1px solid $grey-color;
+    border-radius: $rounded-corner;
+    display: flex;
+    padding: $spacing / 2 $spacing;
+    position: relative;
+    margin-bottom: $spacing;
+
+    > .icon {
+      text-align: center;
+      display: block;
+      position: relative;
+      width: 60px;
+
+      > img {
+        height: auto;
+        max-width: 100%;
+      }
+    }
+    
+    > .copy {
+      margin-left: $spacing;
+
+      > .name {
+        color: $accent-color;
+        font-size: 24px;
+        font-weight: 800;
+        
+        &.hack_night {
+          color: $hack-night-color;
+        }
+      }
+  
+      > .date {
+        font-weight: 800;
+      }
+  
+      > .description {
+        min-height: 72px;
+      }
+    }
+  }
+}

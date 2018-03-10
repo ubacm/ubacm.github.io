@@ -1,0 +1,20 @@
+@import '../variables';
+
+.page__quick_updates {
+  > h1 {
+    color: $accent-color;
+    font-size: 22px;
+    font-weight: 800;
+    margin-bottom: 0;
+  }
+  
+  > h2 {
+    font-weight: 800;
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  > p {
+    margin-bottom: $spacing;
+  }
+}
