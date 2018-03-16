@@ -5,8 +5,8 @@
   "author": "Angus Lam <angushtlam@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js",
-    "build": "node build.js"
+    "start": "node metalsmith/index.js",
+    "build": "node metalsmith/build.js"
   },
   "dependencies": {
     "handlebars": "^4.0.11",

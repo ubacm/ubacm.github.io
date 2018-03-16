@@ -5,10 +5,14 @@ const markdown = require('metalsmith-markdown')
 const permalinks = require('metalsmith-permalinks')
 const sass = require('metalsmith-sass')
 
+const path = require('path')
+
+const SRC = path.resolve(__dirname, '..', 'src')
+
 module.exports = {
   app: Metalsmith(__dirname)
-    .source('./pages')
-    .destination('./dist')
+    .source(path.resolve(SRC, 'pages'))
+    .destination(path.resolve(__dirname, 'dist'))
     .clean(true)
     .use(markdown())
     .use(sass({
@@ -18,8 +22,9 @@ module.exports = {
       sourceMapContents: true,
     }))
     .use(layouts({
+      directory: path.resolve(SRC, 'layouts'),
       engine: 'handlebars',
-      partials: 'layouts/partials/',
+      partials: path.resolve(SRC, 'layouts', 'partials'),
       rename: true,
     }))
     .use(permalinks({
