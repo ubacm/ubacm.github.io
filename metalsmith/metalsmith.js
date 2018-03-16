@@ -12,7 +12,7 @@ const SRC = path.resolve(__dirname, '..', 'src')
 module.exports = {
   app: Metalsmith(__dirname)
     .source(path.resolve(SRC, 'pages'))
-    .destination(path.resolve(__dirname, 'dist'))
+    .destination(path.resolve(__dirname, '..', 'dist'))
     .clean(true)
     .use(markdown())
     .use(sass({

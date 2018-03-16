@@ -5,7 +5,7 @@ const path = require('path')
 
 metalsmith.app.use(browserSync({
     server: {
-      baseDir: path.resolve(__dirname, 'dist'),
+      baseDir: path.resolve(__dirname, '..', 'dist'),
       index: 'index.html',
     },
     files: ['src/**/*.*'],
