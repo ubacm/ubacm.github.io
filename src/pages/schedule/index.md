@@ -17,38 +17,6 @@ Remember that all of our member events are optional, but we'd love for you to co
 <div class="page__schedule">
   <div class="event">
     <div class="icon">
-      <i class="fas fa-users fa-3x"></i><br />
-    </div>
-    <div class="copy">
-      <div class="name">
-        Introduction to Android Development
-      </div>
-      <div class="date">
-        March 12th, 2018 6pm-7pm Davis 101
-      </div>
-      <div class="description">
-        Come learn the basics of Android development in our Android Development workshop! Come get help learning to build your first mobile app! Hosted by Tristan Wiley @sirhype.
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
-      <i class="fas fa-users fa-3x"></i><br />
-    </div>
-    <div class="copy">
-      <div class="name">
-        UB ACM Fireside Chat
-      </div>
-      <div class="date">
-        March 12th, 2018 7pm-8pm Davis 101
-      </div>
-      <div class="description">
-        We want to know what you think of UB ACM! Come talk to the leadership team about any compliments, complaints, and recommendations. We want to know what our members would like to see!
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
       <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
     </div>
     <div class="copy">
@@ -311,6 +279,38 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         New to Linux or the terminal? Let's change that by introducing you to some Linux commands, while also giving you a sneak peek at a few other features. Hosted by Stephen James @StephenOrJames.
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-users fa-3x"></i><br />
+    </div>
+    <div class="copy">
+      <div class="name">
+        Introduction to Android Development
+      </div>
+      <div class="date">
+        March 12th, 2018 6pm-7pm Davis 101
+      </div>
+      <div class="description">
+        Come learn the basics of Android development in our Android Development workshop! Come get help learning to build your first mobile app! Hosted by Tristan Wiley @sirhype.
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-users fa-3x"></i><br />
+    </div>
+    <div class="copy">
+      <div class="name">
+        UB ACM Fireside Chat
+      </div>
+      <div class="date">
+        March 12th, 2018 7pm-8pm Davis 101
+      </div>
+      <div class="description">
+        We want to know what you think of UB ACM! Come talk to the leadership team about any compliments, complaints, and recommendations. We want to know what our members would like to see!
       </div>
     </div>
   </div>
