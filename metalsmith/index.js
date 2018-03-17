@@ -1,14 +1,15 @@
 const browserSync = require('metalsmith-browser-sync')
-const metalsmith = require('./metalsmith')
-
 const path = require('path')
+
+const metalsmith = require('./metalsmith')
+const res = require('../res')
 
 metalsmith.app.use(browserSync({
     server: {
-      baseDir: path.resolve(__dirname, '..', 'dist'),
+      baseDir: res.DIST,
       index: 'index.html',
     },
-    files: ['src/**/*.*'],
+    files: ['src/site/**/*.*'],
   }))
 
 metalsmith.build(metalsmith.app)

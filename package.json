@@ -5,8 +5,11 @@
   "author": "Angus Lam <angushtlam@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "node metalsmith/index.js",
-    "build": "node metalsmith/build.js"
+    "build": "npm run build-site && npm run build-webpack",
+    "start-site": "node metalsmith/index.js",
+    "start-webpack": "webpack --config webpack.config.js --mode development --watch",
+    "build-site": "node metalsmith/build.js",
+    "build-webpack": "webpack --config webpack.config.js --mode production"
   },
   "dependencies": {
     "handlebars": "^4.0.11",
@@ -15,6 +18,18 @@
     "metalsmith-layouts": "^1.8.1",
     "metalsmith-markdown": "^0.2.1",
     "metalsmith-permalinks": "^0.5.0",
-    "metalsmith-sass": "^1.5.0"
+    "metalsmith-sass": "^1.5.0",
+    "prop-types": "^15.6.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.0",
+    "babel-plugin-module-resolver": "^3.0.0",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-react": "^6.24.1",
+    "webpack": "^4.1.1",
+    "webpack-cli": "^2.0.12"
   }
 }

@@ -7,6 +7,8 @@ title: Check-ins
 
 UB ACM require everyone who attends our events to check in. As a University at Buffalo student organization, we are required to collect the _UBIT ID_ of students who attend our event. For our club members' convenience, we developed a sophisticated check-in system that allows members to effortlessly check in to our events.
 
+<a class="button button_primary" href="/checkins/list">List of all UB ACM members' Check-in Marks</a>
+
 <hr />
 
 ## Why do I need to check in?
@@ -57,4 +59,4 @@ Collecting ACMs will allow members to have:
 
 ## Where can I check my score?
 
-Coming soon!
+Visit the [ACM Check-ins List](/checkins/list) page for a full list of members and their respective marks.
