@@ -24,12 +24,12 @@
     > .icon {
       text-align: center;
       display: block;
-      position: relative;
       width: 60px;
 
       > img {
+        display: inline-block;
         height: auto;
-        max-width: 100%;
+        width: 100%;
       }
     }
     

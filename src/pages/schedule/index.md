@@ -33,7 +33,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-users fa-3x"></i><br />
+      <i class="fas fa-users fa-2x"></i><br />
     </div>
     <div class="copy">
       <div class="name">
@@ -49,7 +49,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-users fa-3x"></i><br />
+      <i class="fas fa-users fa-2x"></i><br />
     </div>
     <div class="copy">
       <div class="name">
@@ -81,7 +81,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-coffee fa-3x"></i><br />
+      <i class="fas fa-coffee fa-2x"></i><br />
     </div>
     <div class="copy">
       <div class="name">
@@ -97,7 +97,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-book fa-3x"></i>
+      <i class="fas fa-book fa-2x"></i>
     </div>
     <div class="copy">
       <div class="name">
@@ -150,7 +150,7 @@ Remember that all of our member events are optional, but we'd love for you to co
 <div class="page__schedule past_events">
   <div class="event">
     <div class="icon">
-      <i class="fas fa-users fa-3x"></i><br />
+      <i class="fas fa-users fa-2x"></i><br />
     </div>
     <div class="copy">
       <div class="name">
@@ -166,7 +166,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-book fa-3x"></i>
+      <i class="fas fa-book fa-2x"></i>
     </div>
     <div class="copy">
       <div class="name">
@@ -198,7 +198,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-book fa-3x"></i>
+      <i class="fas fa-book fa-2x"></i>
     </div>
     <div class="copy">
       <div class="name">
@@ -214,7 +214,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-users fa-3x"></i><br />
+      <i class="fas fa-users fa-2x"></i><br />
     </div>
     <div class="copy">
       <div class="name">
@@ -246,7 +246,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-coffee fa-3x"></i><br />
+      <i class="fas fa-coffee fa-2x"></i><br />
     </div>
     <div class="copy">
       <div class="name">
@@ -268,7 +268,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-users fa-3x"></i><br />
+      <i class="fas fa-users fa-2x"></i><br />
     </div>
     <div class="copy">
       <div class="name">
@@ -284,7 +284,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-users fa-3x"></i><br />
+      <i class="fas fa-users fa-2x"></i><br />
     </div>
     <div class="copy">
       <div class="name">
@@ -300,7 +300,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-users fa-3x"></i><br />
+      <i class="fas fa-users fa-2x"></i><br />
     </div>
     <div class="copy">
       <div class="name">
