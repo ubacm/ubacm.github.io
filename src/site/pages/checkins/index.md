@@ -5,24 +5,24 @@ title: Check-ins
 
 # Check-Ins
 
-UB ACM require everyone who attends our events to check in. As a University at Buffalo student organization, we are required to collect the _UBIT ID_ of students who attend our event. For our club members' convenience, we developed a sophisticated check-in system that allows members to effortlessly check in to our events.
+UB ACM require everyone who attends our events to check in. As a University at Buffalo student organization, we are required to collect the _UBIT ID_ of students who attend our events. For our club members' convenience, we developed a sophisticated check-in system that allows members to effortlessly check in to our events.
 
-<a class="button button_primary" href="/checkins/list">List of all UB ACM members' Check-in Marks</a>
+<a class="button button_primary" href="/checkins/list">List of Member Check-Ins</a>
 
 <hr />
 
 ## Why do I need to check in?
 By checking in to our event, we can provide numbers to the two University at Buffalo entities we're housed under, the Student Association (SA) and the School of Engineering and Applied Sciences (SEAS). These numbers are important to show that our events are in demand and in turn we can receive more support from the school.
 
-As for members, for every check-in, we will provide *UB ACM check-in mark* (now referred to as Marks) weighted differently for events.
-* *1 Mark*: Weekly Meeting Day Events (workshops, tech talks, and social events)
-* *2 Marks*: Hackathons (UB Hacking, BrickHack, MHacks, etc.)
+As for members, for every check-in, we will provide *UB ACM check-in marks* (now referred to as Marks) weighted differently for events.
+* *1 Mark*: Weekly Meeting Events (workshops, tech talks, and social events)
+* *2 Marks*: Hackathons and Hack Nights (UB Hacking, BrickHack, MHacks, etc.)
 * _Other opportunities will award Marks based on the discretion of the UB ACM leadership._
 
 Collecting ACMs will allow members to have:
 * Priority food pickup at [Hack Night](/hack).
-* Priority registration at social events.
-* End-of-year suprises :)
+* Priority registration at UB ACM social events.
+* End-of-year raffle tickets *(to be announced!)* :)
 
 <small>UB ACM leadership members cannot be rewarded with Marks and cannot benefit from Mark bonuses. Members who violate club rules are subject to have partial or all awarded Marks rescinded. Marks are not currency and have no monetary value.</small>
 
@@ -59,4 +59,4 @@ Collecting ACMs will allow members to have:
 
 ## Where can I check my score?
 
-Visit the [ACM Check-ins List](/checkins/list) page for a full list of members and their respective marks.
+Visit the [Check-Ins List](/checkins/list) page for a full list of members and their respective marks.

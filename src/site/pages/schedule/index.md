@@ -3,8 +3,6 @@ layout: page.html
 title: Schedule
 ---
 
-[Return to Events](/events)
-
 # Event Schedule
 This is UB ACM's Spring 2018 schedule. This page will always be up-to-date with all of UB ACM's events and new events can be added at a later date, so make sure you check frequently!
 
@@ -15,22 +13,6 @@ For your convenience, we created an updated calendar with all of the same events
 Remember that all of our member events are optional, but we'd love for you to come by and join us! We collect check-ins at events, and members will be awarded points for checking in.
 
 <div class="page__schedule">
-  <div class="event">
-    <div class="icon">
-      <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
-    </div>
-    <div class="copy">
-      <div class="name hack_night">
-        Hack Night co-hosted by ACV Auctions 3
-      </div>
-      <div class="date">
-        March 17th, 2018 1pm-9pm <strong>Norton 218 <em>ROOM CHANGE</em></strong>
-      </div>
-      <div class="description">
-        Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
-      </div>
-    </div>
-  </div>
   <div class="event">
     <div class="icon">
       <i class="fas fa-users fa-2x"></i><br />
@@ -311,6 +293,22 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         We want to know what you think of UB ACM! Come talk to the leadership team about any compliments, complaints, and recommendations. We want to know what our members would like to see!
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
+    </div>
+    <div class="copy">
+      <div class="name hack_night">
+        Hack Night co-hosted by ACV Auctions 3
+      </div>
+      <div class="date">
+        March 17th, 2018 1pm-9pm <strong>Norton 218 <em>ROOM CHANGE</em></strong>
+      </div>
+      <div class="description">
+        Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
       </div>
     </div>
   </div>

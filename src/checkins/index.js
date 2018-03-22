@@ -6,7 +6,7 @@ class CheckInsList extends React.Component {
     super()
 
     this.state = {
-      data: [],
+      data: null,
     }
 
     this.fetchScores = this.fetchScores.bind(this)
@@ -33,7 +33,7 @@ class CheckInsList extends React.Component {
 
   render() {
     if (!this.state.data) {
-      return <h3>Loading...</h3>
+      return <p>Fetching user data from server...</p>
     }
 
     const memberEntries = this.state.data.map(member => (

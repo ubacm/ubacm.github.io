@@ -36,7 +36,7 @@ a {
   border-top: 1px solid $white-color !important;
 }
 
-.icon-button {
+.icon-button, .icon_button {
   > i.fab {
     margin-right: $spacing / 2;
   }

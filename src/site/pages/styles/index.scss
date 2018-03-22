@@ -64,24 +64,38 @@ ul {
     font-weight: 400;
   }
 
-  .events {
-    text-align: center;
-
-    .event {
-      padding: $spacing 0;
-      
-      .event-type {
-        padding-top: $spacing;
-      }
-    }
-  }
-
   img {
     max-width: 100%;
   }
+
+  ul.quick_links {
+    border-bottom: 1px solid $muted-color;
+    display: block;
+    font-weight: 700;
+    padding-bottom: $spacing;
+    text-align: center;
+    width: 100%;
+    
+    > li {
+      display: inline-block;
+      margin: 0 $spacing;
+    }
+  }
 }
 
-.hack_night_logo {
-  height: 45px;
+a.anchor {
+  display: block;
+  position: relative;
+  top: -120px;
+  visibility: hidden;
+}
+
+.hack_night_icon {
+  height: 10px;
   width: auto;
+  margin-right: $spacing / 4;
+}
+
+.alt_accent {
+  color: $hack-night-color;
 }

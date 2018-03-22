@@ -1,5 +1,7 @@
 @import '../variables';
 
+$show-big-nav: 900px;
+
 .partial__header {
   position: fixed;
   width: 100%;
@@ -8,12 +10,9 @@
   .wrapper {
     background: $white-color;
     box-shadow: 0 1px 4px $grey-color;
-    border-bottom: 5px solid $accent-color;
-    border-right: 1px solid #efefef;
-    border-right: 1px solid #efefef;
-    border-right: 1px solid #efefef;
+    border-bottom: 6px solid $accent-color;
     border-radius: $rounded-corner;
-    height: 70px;
+    height: 60px;
     margin: $spacing * 2 0;
     padding: $spacing;
     position: relative;
@@ -27,7 +26,7 @@
         position: absolute;
 
         > img.logo {
-          height: 100px;
+          height: 80px;
           width: auto;
         }
       }
@@ -48,7 +47,7 @@
         
       }
       
-      @media (max-width: 800px) {
+      @media (max-width: $show-big-nav) {
         > .mobile_menu_toggle {
           display: inline-block;
         }
@@ -59,7 +58,7 @@
         display: block;
         margin: 0 $spacing 0 0;
         
-        @media (max-width: 800px) {
+        @media (max-width: $show-big-nav) {
           display: none;
         }
         
@@ -68,15 +67,9 @@
           margin-bottom: 0;
           margin-right: $spacing;
           
-          @media (max-width: 960px) {
-            &.hide_small {
-              display: none;
-            }
-          }
-          
           > a {
             color: $secondary-color;
-            font-size: 20px;
+            font-size: 18px;
             font-weight: 800;
             text-decoration: none;
           }
@@ -86,11 +79,12 @@
   }
   
   .mobile_nav {
-    background: $white-color;
+    background: rgba(255, 255, 255, 0.99);
+    height: 100vh;
     display: none;
   }
   
-  @media (max-width: 800px) {
+  @media (max-width: $show-big-nav) {
     .mobile_nav {
       display: none;
       left: 0;
