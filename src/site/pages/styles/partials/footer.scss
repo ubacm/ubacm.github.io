@@ -9,4 +9,23 @@
   a {
     color: $white-color;
   }
+
+  .logos {
+    align-items: center;
+    display: flex;
+
+    .logo {
+      display: inline-block;
+      width: 50px;
+      height: auto;
+      margin-right: $spacing;
+    }
+
+    .logo_wide {
+      display: inline-block;
+      width: 160px;
+      height: auto;
+      margin-right: $spacing;
+    }
+  }
 }
