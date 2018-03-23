@@ -82,5 +82,26 @@ The following is the leadership team of UB ACM for the Fall 2017 to Spring 2018 
       </div>
     </div>
   </div>
+  <div class="three columns">
+    <div class="team_member">
+      <img class="profile" src="/assets/team/ryan.jpg" />
+      <div class="name">Ryan Dils</div>
+      <div class="description">
+        Computer Science B.S. 2021<br />
+      </div>
+    </div>
+  </div>
+</div>
+<br />
+<div class="row">
+  <div class="three columns">
+    <div class="team_member">
+      <img class="profile" src="/assets/team/hana.jpg" />
+      <div class="name">Hana Basheer</div>
+      <div class="description">
+        Computer Science B.S., Mathematics Minor 2021<br />
+      </div>
+    </div>
+  </div>
 </div>
 
