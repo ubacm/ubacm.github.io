@@ -18,6 +18,12 @@ The Introduction to iOS Development workshop is cancelled, we apologize for any 
 Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM.
 
 
+# Lightning Talk
+## April 2th, 2018 6pm-8pm Davis 101
+Lightning Talk is an open forum event where anyone can present a quick five minute presentation on <strong>anything</strong> you'd like. Swing by and join us for a fun time, and have some pizza with us for dinner. (You don't need to present to enjoy the talks!)
+
+Presenters will be awarded an additional one check-in mark! Register to be a presenter here: <a href="https://goo.gl/forms/gEkw8HCCp7ZdFzuG2" target="_blank">https://goo.gl/forms/gEkw8HCCp7ZdFzuG2</a>
+
 # Hack Night Updates
 The first wave of prizes for Hack Night co-hosted by ACV Auctions Spring 2018 is [now published here](/hack#prizes)! Check out the categories and what you can win.
 

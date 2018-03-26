@@ -51,13 +51,15 @@ Remember that all of our member events are optional, but we'd love for you to co
     </div>
     <div class="copy">
       <div class="name">
-        Lightning Talks
+        Lightning Talk
       </div>
       <div class="date">
         April 2th, 2018 6pm-8pm Davis 101
       </div>
       <div class="description">
-        Lightning Talks is an open forum event where anyone can present a quick five minute presentation on <strong>anything</strong> you'd like. Swing by and join us for a fun time!
+        Lightning Talk is an open forum event where anyone can present a quick five minute presentation on <strong>anything</strong> you'd like. Swing by and join us for a fun time, and have some pizza with us for dinner. (You don't need to present to enjoy the talks!)<br />
+        <br />
+        Presenters will be awarded an additional one check-in mark! Register to be a presenter here: <a href="https://goo.gl/forms/nmqMPQe6GOrMo5Cj1" target="_blank">https://goo.gl/forms/nmqMPQe6GOrMo5Cj1</a>
       </div>
     </div>
   </div>
@@ -90,6 +92,22 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-cog fa-2x"></i>
+    </div>
+    <div class="copy">
+      <div class="name">
+        Event in Planning...
+      </div>
+      <div class="date">
+        April 30th, 2018 Davis 101
+      </div>
+      <div class="description">
+        ...
       </div>
     </div>
   </div>
