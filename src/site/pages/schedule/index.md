@@ -19,22 +19,6 @@ Remember that all of our member events are optional, but we'd love for you to co
     </div>
     <div class="copy">
       <div class="name">
-        Introduction to iOS Development
-      </div>
-      <div class="date">
-        March 26th, 2018 6pm-7pm Davis 101
-      </div>
-      <div class="description">
-        Learn the basics of iOS development by creating your own app with Arthur De Araujo @arthur. More info coming soon!
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
-      <i class="fas fa-users fa-2x"></i><br />
-    </div>
-    <div class="copy">
-      <div class="name">
         Introduction to Kotlin
       </div>
       <div class="date">
@@ -309,6 +293,22 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-users fa-2x"></i><br />
+    </div>
+    <div class="copy">
+      <div class="name">
+        ~~Introduction to iOS Development~~ CANCELLED
+      </div>
+      <div class="date">
+        March 26th, 2018 6pm-7pm Davis 101
+      </div>
+      <div class="description">
+        Learn the basics of iOS development by creating your own app with Arthur De Araujo @arthur. More info coming soon!
       </div>
     </div>
   </div>
