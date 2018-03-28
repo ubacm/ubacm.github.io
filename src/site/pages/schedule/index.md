@@ -15,22 +15,6 @@ Remember that all of our member events are optional, but we'd love for you to co
 <div class="page__schedule">
   <div class="event">
     <div class="icon">
-      <i class="fas fa-users fa-2x"></i><br />
-    </div>
-    <div class="copy">
-      <div class="name">
-        Introduction to Kotlin
-      </div>
-      <div class="date">
-        March 26th, 2018 7pm-8pm Davis 101
-      </div>
-      <div class="description">
-        In just a short while, Kotlin has become an incredibly popular and widely used language. Come learn why that's the case, and get started learning this relatively new language! Hosted by Tristan Wiley @sirhype.
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
       <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
     </div>
     <div class="copy">
@@ -97,17 +81,17 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <i class="fas fa-cog fa-2x"></i>
+      <i class="fas fa-coffee fa-2x"></i><br />
     </div>
     <div class="copy">
       <div class="name">
-        Event in Planning...
+        Chapter Leadership Elections
       </div>
       <div class="date">
-        April 30th, 2018 Davis 101
+        April 30th, 2018 6pm-7pm Davis 101
       </div>
       <div class="description">
-        ...
+        More details coming soon...
       </div>
     </div>
   </div>
@@ -124,6 +108,22 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-coffee fa-2x"></i><br />
+    </div>
+    <div class="copy">
+      <div class="name">
+        Senior Salutations
+      </div>
+      <div class="date">
+        May 7th, 2018 6pm-8pm Davis 101
+      </div>
+      <div class="description">
+        Say farewell to our upperclassmen. Before they leave for their summer internship or graduate, take some time to connect with them! More details coming soon.
       </div>
     </div>
   </div>
@@ -170,7 +170,7 @@ Remember that all of our member events are optional, but we'd love for you to co
     </div>
     <div class="copy">
       <div class="name hack_night">
-        Hack Night co-hosted by ACV Auctions 1 
+        Hack Night co-hosted by ACV Auctions 1
       </div>
       <div class="date">
         February 17th, 2018 1pm-9pm Davis 101
@@ -327,6 +327,22 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         Learn the basics of iOS development by creating your own app with Arthur De Araujo @arthur. More info coming soon!
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-users fa-2x"></i><br />
+    </div>
+    <div class="copy">
+      <div class="name">
+        Introduction to Kotlin
+      </div>
+      <div class="date">
+        March 26th, 2018 7pm-8pm Davis 101
+      </div>
+      <div class="description">
+        In just a short while, Kotlin has become an incredibly popular and widely used language. Come learn why that's the case, and get started learning this relatively new language! Hosted by Tristan Wiley @sirhype.
       </div>
     </div>
   </div>
