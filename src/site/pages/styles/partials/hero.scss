@@ -9,13 +9,25 @@
   min-height: 600px;
   
   &.hack_night {
-    background: url('/assets/hacknight.jpg');
+    background: url('/assets/hacknight/hero.jpg');
     background-size: cover;
 
     .logo {
       height: auto;
       margin-bottom: $spacing;
       max-width: 450px;
+      width: 100%;
+    }
+  }
+
+  &.hackspace {
+    background: url('/assets/hackspace/hero.jpg');
+    background-size: cover;
+
+    .logo {
+      height: auto;
+      margin-bottom: $spacing;
+      max-width: 350px;
       width: 100%;
     }
   }

@@ -3,6 +3,8 @@ title: UB ACM
 layout: landing.html
 ---
 
+# Hackspace is Open!
+The Hackspace is now open to use throughout the weekdays. Check out [more about the Hackspace here](/space)!
 
 # Lightning Talk
 ## April 2nd, 2018 6pm-8pm Davis 101
@@ -18,7 +20,5 @@ Professor Bina is running an exciting Introduction to Blockchain workshop! Learn
 ## April 16th, 2018 6pm-7pm Davis 101
 A Machine Learning and Artificial Intelligence crash course hosted by Blaze Gawlik from AMC Networks that will launch you into the trendy increasingly popular subject!
 
-# Hack Night co-hosted by ACV Auctions 5
-## April 28th, 2018 1pm-9pm Davis 101 
-Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM.
-
+# Check-in Marks Raffle
+We announced the first prize lineup to our end-of-year raffle. Check out [more about the raffle here](/checkins/raffle) and how you can win prizes!

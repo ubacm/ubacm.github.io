@@ -52,21 +52,23 @@ class Header extends React.Component {
                 <li className="links_width">What is UB ACM?</li>
                 <li><a className="title" href="/checkins">How to Check In</a></li>
                 <li className="indent"><a href="/checkins/list">Check-In Marks Log</a></li>
-                <li><br /></li>
+                <li className="indent"><a href="/checkins/raffle">Raffle</a></li>
                 <li><a className="title" href="/team">Leadership Team</a></li>
+                <li><a className="title" href="/log">Changelog</a></li>
               </ul>
               <ul className="links">
                 <li className="links_width">Event Schedule</li>
-                <li><a className="title" href="/hack">Hack Night <img className="img_icon" src="/assets/hacknight.png" /></a></li>
+                <li><a className="title" href="/hack">Hack Night <img className="img_icon" src="/assets/hacknight/logo.png" /></a></li>
                 <li className="indent"><a href="/hack#prizes">Prizes</a></li>
                 <li className="indent"><a href="/hack#resumes">Resumes</a></li>
+                <li><a className="title" href="/space">Hackspace <img className="img_icon" src="/assets/hackspace/logo.png" /></a></li>
               </ul>
               <ul className="links">
                 <li className="links_width">Stay Updated</li>
-                <li><a href="/conduct">Code of Conduct</a></li>
-                <li><a href="https://ubacm.slack.com/signup" target="_blank">Slack <i className="fas fa-external-link-alt"></i></a></li>
-                <li><a href="https://github.com/ubacm" target="_blank">GitHub <i className="fas fa-external-link-alt"></i></a></li>
-                <li><a href="https://www.facebook.com/ubacm.org" target="_blank">Facebook <i className="fas fa-external-link-alt"></i></a></li>
+                <li><a className="title" href="/conduct">Code of Conduct</a></li>
+                <li><a className="title" href="https://ubacm.slack.com/signup" target="_blank">Slack <i className="fas fa-external-link-alt"></i></a></li>
+                <li><a className="title" href="https://github.com/ubacm" target="_blank">GitHub <i className="fas fa-external-link-alt"></i></a></li>
+                <li><a className="title" href="https://www.facebook.com/ubacm.org" target="_blank">Facebook <i className="fas fa-external-link-alt"></i></a></li>
 
               </ul>
             </div>
