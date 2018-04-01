@@ -8,6 +8,7 @@ title: Check-ins
 UB ACM require everyone who attends our events to check in. As a University at Buffalo student organization, we are required to collect the _UBIT ID_ of students who attend our events. For our club members' convenience, we developed a sophisticated check-in system that allows members to effortlessly check in to our events.
 
 <a class="button button_primary" href="/checkins/list">List of Member Check-Ins</a>
+<a class="button button_secondary" href="/checkins/raffle">Raffle</a>
 
 <hr />
 
@@ -22,7 +23,7 @@ As for members, for every check-in, we will provide *UB ACM check-in marks* (now
 Collecting ACMs will allow members to have:
 * Priority food pickup at [Hack Night](/hack).
 * Priority registration at UB ACM social events.
-* End-of-year raffle tickets *(to be announced!)* :)
+* End-of-year raffle tickets. [Learn more about the raffle here!](/checkins/raffle) 
 
 <small>UB ACM leadership members cannot be rewarded with Marks and cannot benefit from Mark bonuses. Members who violate club rules are subject to have partial or all awarded Marks rescinded. Marks are not currency and have no monetary value.</small>
 

@@ -49,7 +49,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
+      <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
     </div>
     <div class="copy">
       <div class="name hack_night">
@@ -81,7 +81,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
+      <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
     </div>
     <div class="copy">
       <div class="name hack_night">
@@ -150,7 +150,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
+      <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
     </div>
     <div class="copy">
       <div class="name hack_night">
@@ -198,7 +198,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
+      <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
     </div>
     <div class="copy">
       <div class="name hack_night">
@@ -284,7 +284,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
+      <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
     </div>
     <div class="copy">
       <div class="name hack_night">
@@ -332,7 +332,7 @@ Remember that all of our member events are optional, but we'd love for you to co
   </div>
   <div class="event">
     <div class="icon">
-      <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
+      <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
     </div>
     <div class="copy">
       <div class="name hack_night">
