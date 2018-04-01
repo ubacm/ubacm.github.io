@@ -15,22 +15,6 @@ Remember that all of our member events are optional, but we'd love for you to co
 <div class="page__schedule">
   <div class="event">
     <div class="icon">
-      <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
-    </div>
-    <div class="copy">
-      <div class="name hack_night">
-        Hack Night co-hosted by ACV Auctions 4
-      </div>
-      <div class="date">
-        March 31st, 2018 1pm-9pm Davis 101
-      </div>
-      <div class="description">
-        Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
       <i class="fas fa-coffee fa-2x"></i><br />
     </div>
     <div class="copy">
@@ -343,6 +327,22 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         In just a short while, Kotlin has become an incredibly popular and widely used language. Come learn why that's the case, and get started learning this relatively new language! Hosted by Tristan Wiley @sirhype.
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <img class="hack_night_logo" src="/assets/hacknight.png" /><br />
+    </div>
+    <div class="copy">
+      <div class="name hack_night">
+        Hack Night co-hosted by ACV Auctions 4
+      </div>
+      <div class="date">
+        March 31st, 2018 1pm-9pm Davis 101
+      </div>
+      <div class="description">
+        Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
       </div>
     </div>
   </div>
