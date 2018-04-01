@@ -1,3 +1,4 @@
+@import 'lib/animate';
 @import 'lib/normalize';
 @import 'lib/skeleton';
 
@@ -6,6 +7,7 @@
 @import 'variables';
 
 @import 'components/checkins_list';
+@import 'components/header';
 
 @import 'pages/hack_night';
 @import 'pages/quick_updates';
@@ -13,7 +15,6 @@
 @import 'pages/team';
 
 @import 'partials/footer';
-@import 'partials/header';
 @import 'partials/hero';
 
 * {
@@ -90,10 +91,10 @@ a.anchor {
   visibility: hidden;
 }
 
-.hack_night_icon {
-  height: 10px;
+.img_icon {
+  height: 11px;
   width: auto;
-  margin-right: $spacing / 4;
+  margin: 0 $spacing / 4 0 $spacing / 8;
 }
 
 .alt_accent {

@@ -2,9 +2,12 @@ const path = require('path')
 const res = require('./res')
 
 module.exports = {
-  entry: './src/checkins/index.js',
+  entry: {
+    checkins: './src/apps/checkins/index.js',
+    header: './src/apps/header/index.js',
+  },
   output: {
-    filename: 'checkins.js',
+    filename: '[name].js',
     path: path.resolve(res.DIST, 'assets', 'bundles'),
   },
   module: {
