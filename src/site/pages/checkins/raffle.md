@@ -60,7 +60,7 @@ Interim Associate Department Chair; Associate Professor<br />
 Taught CSE 331 Introduction to Algorithms, CSE 501 Introduction to Graduate Study<br />
 <a href="https://www.cse.buffalo.edu/faculty/atri/" target="_blank">Website</a>
 
-<i class="fas fa-star"></i> **Jennifer Winnikus**<br />
+<i class="fas fa-star"></i> **Jennifer Winikus**<br />
 Teaching Assistant Professor<br />
 Taught CSE101, CSE113, and CSE241 Digital Systems<br />
 <a href="https://www.cse.buffalo.edu/~jwinikus/" target="_blank">Website</a>
