@@ -15,35 +15,17 @@ Remember that all of our member events are optional, but we'd love for you to co
 <div class="page__schedule">
   <div class="event">
     <div class="icon">
-      <i class="fas fa-coffee fa-2x"></i><br />
-    </div>
-    <div class="copy">
-      <div class="name">
-        Lightning Talk
-      </div>
-      <div class="date">
-        April 2th, 2018 6pm-8pm Davis 101
-      </div>
-      <div class="description">
-        Lightning Talk is an open forum event where anyone can present a quick five minute presentation on <strong>anything</strong> you'd like. Swing by and join us for a fun time, and have some pizza with us for dinner. (You don't need to present to enjoy the talks!)<br />
-        <br />
-        Presenters will be awarded an additional one check-in mark! Register to be a presenter here: <a href="https://goo.gl/forms/nmqMPQe6GOrMo5Cj1" target="_blank">https://goo.gl/forms/nmqMPQe6GOrMo5Cj1</a>
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
       <i class="fas fa-book fa-2x"></i>
     </div>
     <div class="copy">
       <div class="name">
-        Machine Learning and Artificial Intelligence Crash Course by Blaze Gawlik
+        From Student to Junior Engineer
       </div>
       <div class="date">
-        April 16th, 2018 6pm-7pm Davis 101
+        April 23rd, 2018 6pm-7pm Davis 101
       </div>
       <div class="description">
-        A Machine Learning and Artificial Intelligence crash course hosted by Blaze Gawlik from AMC Networks that will launch you into the trendy increasingly popular subject!
+        Making the transition from student to an intern or junior developer is difficult. But with the right tips, tricks, and skills, the process can be a lot easier.
       </div>
     </div>
   </div>
@@ -343,6 +325,40 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-coffee fa-2x"></i><br />
+    </div>
+    <div class="copy">
+      <div class="name">
+        Lightning Talk
+      </div>
+      <div class="date">
+        April 2th, 2018 6pm-8pm Davis 101
+      </div>
+      <div class="description">
+        Lightning Talk is an open forum event where anyone can present a quick five minute presentation on <strong>anything</strong> you'd like. Swing by and join us for a fun time, and have some pizza with us for dinner. (You don't need to present to enjoy the talks!)<br />
+        <br />
+        Presenters will be awarded an additional one check-in mark! Register to be a presenter here: <a href="https://goo.gl/forms/nmqMPQe6GOrMo5Cj1" target="_blank">https://goo.gl/forms/nmqMPQe6GOrMo5Cj1</a>
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-book fa-2x"></i>
+    </div>
+    <div class="copy">
+      <div class="name">
+        Machine Learning and Artificial Intelligence Crash Course by Blaze Gawlik
+      </div>
+      <div class="date">
+        April 16th, 2018 6pm-7pm Davis 101
+      </div>
+      <div class="description">
+        A Machine Learning and Artificial Intelligence crash course hosted by Blaze Gawlik from AMC Networks that will launch you into the trendy increasingly popular subject!
       </div>
     </div>
   </div>
