@@ -1,6 +1,6 @@
 @import '../variables';
 
-$show-big-nav: 900px;
+$show-big-nav: 930px;
 $nav-height: 60px;
 $nav-border-bottom: 6px;
 
@@ -10,12 +10,8 @@ $nav-border-bottom: 6px;
   z-index: 100;
 
   > .container {
-    @media (min-width: $show-big-nav) {
-      &:hover {
-        > .expansion {
-          display: block;
-        }
-      }
+    > .expansion.show_expansion {
+      display: block;
     }
 
     > .wrapper {
@@ -52,17 +48,14 @@ $nav-border-bottom: 6px;
         right: 0;
         top: 0;
     
-        > .mobile_menu_toggle {
+        > .menu_toggle {
           color: $secondary-color;
           display: none;
           margin-right: $spacing * 2;
-          
         }
         
-        @media (max-width: $show-big-nav) {
-          > .mobile_menu_toggle {
-            display: inline-block;
-          }
+        > .menu_toggle {
+          display: inline-block;
         }
 
         ul.links {
@@ -107,6 +100,7 @@ $nav-border-bottom: 6px;
 
       > .menu {
         display: inline-flex;
+        padding-right: $interactive-size + $spacing;
         position: relative;
         float: right;
 
@@ -168,7 +162,7 @@ $nav-border-bottom: 6px;
         display: block;
       }
 
-      > .mobile_menu_toggle {
+      > .menu_toggle {
         color: $secondary-color;
         position: absolute;
         right: $spacing * 2;

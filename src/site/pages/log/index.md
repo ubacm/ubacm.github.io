@@ -6,10 +6,10 @@ title: Changelog
 # Changelog
 The Changelog is a list of all of the changes we've made in UB ACM. We're doing this to keep people in the loop about the changes we've made.
 
-## April 1st, 2018
-* Introduced [Changelog](/log), a changelog of all the changes we changed.
-* Introduced [Hackspace](/space), a co-working hackerspace on the UB North campus.
-* Introduced [Check-in Marks Raffle](/checkins/raffle), UB ACM's first end-of-year raffle.
+## April 23rd, 2018
+* Introduced [Election](/election), a page containing information about the Chapter Elections.
+* Updated [Check-ins List](/checkins/list) for filtering functionalities.
+* Updated website header to remove the hover menu and replaced it with a click-to-open menu.
 
 # Past Changes
 You can find the past changes here on the [Past Changes](/log/past) page.

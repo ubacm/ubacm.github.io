@@ -51,13 +51,16 @@ Remember that all of our member events are optional, but we'd love for you to co
     </div>
     <div class="copy">
       <div class="name">
-        Chapter Leadership Elections
+        Chapter Elections and Check-in Marks Raffle
       </div>
       <div class="date">
-        April 30th, 2018 6pm-7pm Davis 101
+        April 30th, 2018 6pm-8pm Davis 101
       </div>
       <div class="description">
-        More details coming soon...
+        UB ACM is holding our Chapter elections to vote for the new leadership team of the 2018-2019 academic year! Check out <a href="/election">the Election page</a> to learn more how voting eligibilty, or, if you are interested in running for an officer position, how you can run for one or more of the positions!
+        <br />
+        <br />
+        On the same day as the Chapter elections, we will hold our end-of-year raffle. You can trade your check-in marks for raffle entries. <a href="/checkins/raffle">Check out more about the raffle here</a> and how you can win prizes!
       </div>
     </div>
   </div>

@@ -44,6 +44,10 @@ ul {
   }
 }
 
+ol > li {
+  margin-bottom: 0;
+}
+
 .contents {
   padding: $spacing 0;
   min-height: 90vh;
