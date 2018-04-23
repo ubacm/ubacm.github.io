@@ -47,6 +47,7 @@ UB ACM is University at Buffalo's computer science club. As of April 2018, we ma
 By becoming an officer, you become integral to the hundreds of students we service. UB ACM is not possible without the time and effort by passionate students who volunteer to support their peers.
 
 **If you are interested in running for an officer position, please sign up at [https://goo.gl/forms/BTWrbswKlnytMK4y2](https://goo.gl/forms/BTWrbswKlnytMK4y2).**
+<small>Please note that you'll need to sign into your @buffalo email to fill out the form (if you're having trouble, try opening the link in Incognito/Private Browsing mode in your browser and signing into your @buffalo email address).</small>
 
 ## Standing Committees
 Don't want to run for an officer position, but still want to help out UB ACM? Join a committee! We have 5 committees available for any Chapter member to join. The committees consists of Program, Finance, Education, Membership and Publicity, and Technology.

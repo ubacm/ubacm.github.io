@@ -54,8 +54,8 @@ class Header extends React.Component {
                 <li className="indent"><a href="/checkins/list">Check-In Marks Log</a></li>
                 <li className="indent"><a href="/checkins/raffle">Raffle</a></li>
                 <li><a className="title" href="/team">Leadership Team</a></li>
-                <li><a className="title" href="/election">Chapter Election 2018</a></li>
-                <li className="indent"><a href="/constitution">Constitution</a></li>
+                <li><a className="title" href="/election">Chapter Election</a></li>
+                <li><a className="title" href="/constitution">Constitution</a></li>
                 <li><a className="title" href="/log">Changelog</a></li>
               </ul>
               <ul className="links">
@@ -71,7 +71,6 @@ class Header extends React.Component {
                 <li><a className="title" href="https://ubacm.slack.com/signup" target="_blank">Slack <i className="fas fa-external-link-alt"></i></a></li>
                 <li><a className="title" href="https://github.com/ubacm" target="_blank">GitHub <i className="fas fa-external-link-alt"></i></a></li>
                 <li><a className="title" href="https://www.facebook.com/ubacm.org" target="_blank">Facebook <i className="fas fa-external-link-alt"></i></a></li>
-
               </ul>
             </div>
           </div>
