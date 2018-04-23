@@ -55,6 +55,7 @@ class Header extends React.Component {
                 <li className="indent"><a href="/checkins/raffle">Raffle</a></li>
                 <li><a className="title" href="/team">Leadership Team</a></li>
                 <li><a className="title" href="/election">Chapter Election 2018</a></li>
+                <li className="indent"><a href="/constitution">Constitution</a></li>
                 <li><a className="title" href="/log">Changelog</a></li>
               </ul>
               <ul className="links">
