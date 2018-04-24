@@ -80,4 +80,4 @@ title: Officer Positions
 ## Software Engineering Chair
 * Managing the Chapter’s technology infrastructure.
 * Onboarding and training interested Chapter members on maintaining and developing new projects/features on the Chapter’s technology infrastructure.
-* Coordinating with other project-based organizations to provide Chapter members with a variety of projects (e.g. Invens|t, Blackstone LaunchPad).
+* Coordinating with other project-based organizations to provide Chapter members with a variety of projects (e.g. Inve[n|s]t, Blackstone LaunchPad).
