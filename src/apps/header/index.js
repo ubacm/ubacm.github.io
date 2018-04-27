@@ -53,8 +53,9 @@ class Header extends React.Component {
                 <li><a className="title" href="/checkins">How to Check In</a></li>
                 <li className="indent"><a href="/checkins/list">Check-In Marks Log</a></li>
                 <li className="indent"><a href="/checkins/raffle">Raffle</a></li>
-                <li><a className="title" href="/team">Leadership Team</a></li>
                 <li><a className="title" href="/election">Chapter Election</a></li>
+                <br />
+                <li><a className="title" href="/team">Leadership Team</a></li>
                 <li><a className="title" href="/constitution">Constitution</a></li>
                 <li><a className="title" href="/log">Changelog</a></li>
               </ul>
@@ -64,6 +65,7 @@ class Header extends React.Component {
                 <li className="indent"><a href="/hack#prizes">Prizes</a></li>
                 <li className="indent"><a href="/hack#resumes">Resumes</a></li>
                 <li><a className="title" href="/space">Hackspace <img className="img_icon" src="/assets/hackspace/logo.png" /></a></li>
+                <li><a className="title" href="/senior">Senior Salutations</a></li>
               </ul>
               <ul className="links">
                 <li className="links_width">Stay Updated</li>

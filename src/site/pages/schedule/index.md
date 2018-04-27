@@ -15,22 +15,6 @@ Remember that all of our member events are optional, but we'd love for you to co
 <div class="page__schedule">
   <div class="event">
     <div class="icon">
-      <i class="fas fa-book fa-2x"></i>
-    </div>
-    <div class="copy">
-      <div class="name">
-        From Student to Junior Engineer
-      </div>
-      <div class="date">
-        April 23rd, 2018 6pm-7pm Davis 101
-      </div>
-      <div class="description">
-        Making the transition from student to an intern or junior developer is difficult. But with the right tips, tricks, and skills, the process can be a lot easier.
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
       <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
     </div>
     <div class="copy">
@@ -79,7 +63,9 @@ Remember that all of our member events are optional, but we'd love for you to co
         May 5th, 2018 9am-9pm Davis 101
       </div>
       <div class="description">
-        Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
+        Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <br />
+        <br />
+        This is our LAST Hack Night of the semester, so our sponsors ACV Auctions, Google, and ValueCentric will be coming to meet you! Submit any project you’ve worked on during this semester, and get a chance to win one of the prize categories. <a href="/hack">Learn more.</a>
       </div>
     </div>
   </div>
@@ -95,7 +81,10 @@ Remember that all of our member events are optional, but we'd love for you to co
         May 7th, 2018 6pm-8pm Davis 101
       </div>
       <div class="description">
-        Say farewell to our upperclassmen. Before they leave for their summer internship or graduate, take some time to connect with them! More details coming soon.
+        Say farewell to our upperclassmen. Before they leave for their summer internship or graduate, take some time to connect with them! We are going to have a roll call for our upperclassmen and seniors, instagrammable decor, and food (pizza and CAKE)! <a href="/senior">Learn more.</a>
+        <br />
+        <br />
+        Graduating or going to an internship/REU? Sign up to be part of the roll call at <a href="https://goo.gl/forms/iPEGknEsmFVnt2g33" target="_blank"> this form! https://goo.gl/forms/iPEGknEsmFVnt2g33</a>.
       </div>
     </div>
   </div>
@@ -365,6 +354,22 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         A Machine Learning and Artificial Intelligence crash course hosted by Blaze Gawlik from AMC Networks that will launch you into the trendy increasingly popular subject!
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-book fa-2x"></i>
+    </div>
+    <div class="copy">
+      <div class="name">
+        From Student to Junior Engineer
+      </div>
+      <div class="date">
+        April 23rd, 2018 6pm-7pm Davis 101
+      </div>
+      <div class="description">
+        Making the transition from student to an intern or junior developer is difficult. But with the right tips, tricks, and skills, the process can be a lot easier.
       </div>
     </div>
   </div>

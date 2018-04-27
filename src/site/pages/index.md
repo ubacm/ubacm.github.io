@@ -3,10 +3,6 @@ title: UB ACM
 layout: landing.html
 ---
 
-# From Student to Junior Engineer by Daniel Starner
-## April 23rd, 2018 6pm-7pm Davis 101
-Making the transition from student to an intern or junior developer is difficult. But with the right tips, tricks, and skills, the process can be a lot easier.
-
 # Hack Night co-hosted by ACV Auctions 5
 ## April 28th, 2018 1pm-9pm Davis 101
 Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. [Learn more](/hack)...
@@ -21,4 +17,6 @@ Lastly, we will hold our end-of-year raffle. You can trade your check-in marks f
 
 # Hack Night co-hosted by ACV Auctions Semester Finale
 ## May 5th, 2018 9am-9pm Davis 101
-Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. [Learn more](/hack)...
+Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. 
+
+This is our LAST Hack Night of the semester, so our sponsors ACV Auctions, Google, and ValueCentric will be coming to meet you! Submit any project you’ve worked on during this semester, and get a chance to win one of the prize categories. [Learn more](/hack)...

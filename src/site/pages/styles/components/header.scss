@@ -1,7 +1,7 @@
 @import '../variables';
 
 $show-big-nav: 930px;
-$nav-height: 60px;
+$nav-height: 50px;
 $nav-border-bottom: 6px;
 
 .component__header {
@@ -20,7 +20,7 @@ $nav-border-bottom: 6px;
       border-bottom: $nav-border-bottom solid $accent-color;
       border-radius: $rounded-corner;
       height: $nav-height;
-      margin-top: $spacing * 2;
+      margin-top: $spacing;
       padding: $spacing;
       position: relative;
       z-index: 200;
@@ -34,7 +34,7 @@ $nav-border-bottom: 6px;
           position: absolute;
   
           > img.logo {
-            height: 75px;
+            height: 60px;
             width: auto;
           }
         }

@@ -32,6 +32,27 @@
     }
   }
 
+  &.senior_salutations {
+    background: linear-gradient(0deg, #7f3f98, #613f98);
+    background-size: cover;
+
+    .hero_copy {
+      background: rgba(84, 74, 159, 0.5);
+      padding: $spacing * 2 0;
+
+      > .logo {
+        height: auto;
+        margin-bottom: $spacing;
+        max-width: 500px;
+        width: 100%;
+      }
+  
+      > h1 {
+        font-size: 36px !important;
+      }
+    }
+  }
+
   > .container > .hero_copy {
     color: $white-color;
     text-align: center;
