@@ -5,6 +5,11 @@ $nav-height: 50px;
 $nav-border-bottom: 6px;
 
 .component__header {
+  background: $white-color;
+  border-bottom: $nav-border-bottom solid $accent-color;
+  border-radius: $rounded-corner;
+  box-shadow: 0 1px 4px $dark-accent-color;
+  height: $nav-height;
   position: fixed;
   width: 100%;
   z-index: 100;
@@ -15,13 +20,6 @@ $nav-border-bottom: 6px;
     }
 
     > .wrapper {
-      background: $white-color;
-      box-shadow: 0 1px 4px $dark-accent-color;
-      border-bottom: $nav-border-bottom solid $accent-color;
-      border-radius: $rounded-corner;
-      height: $nav-height;
-      margin-top: $spacing;
-      padding: $spacing;
       position: relative;
       z-index: 200;
       
@@ -34,6 +32,7 @@ $nav-border-bottom: 6px;
           position: absolute;
   
           > img.logo {
+            margin-top: $spacing;
             height: 60px;
             width: auto;
           }
@@ -92,8 +91,8 @@ $nav-border-bottom: 6px;
       border-bottom-right-radius: $rounded-corner;
       color: $white-color;
       display: none;
-      top: $nav-height - $nav-border-bottom;
-      padding: $spacing 0;
+      top: $nav-height;
+      padding: $spacing / 2 0 $spacing 0;
       position: absolute;
       width: 100%;
       z-index: 100;
