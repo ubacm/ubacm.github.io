@@ -1,13 +1,13 @@
 @import '../variables';
 
 $show-big-nav: 930px;
-$nav-height: 50px;
 $nav-border-bottom: 6px;
 
 .component__header {
   background: $white-color;
   border-bottom: $nav-border-bottom solid $accent-color;
-  border-radius: $rounded-corner;
+  border-bottom-left-radius: $rounded-corner;
+  border-bottom-right-radius: $rounded-corner;
   box-shadow: 0 1px 4px $dark-accent-color;
   height: $nav-height;
   position: fixed;

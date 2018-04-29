@@ -6,6 +6,14 @@ title: Changelog
 # Changelog
 The Changelog is a list of all of the changes we've made in UB ACM. We're doing this to keep people in the loop about the changes we've made.
 
+## April 29th, 2018
+* Updated [Hack Night](/hack) with new information on the semester finale.
+* Updated hero to take up less space.
+
+## April 28th, 2018
+* Modified header to take up even less space. Adjusted hero.
+* Updated [Hack Night](/hack) with new information on the semester finale.
+
 ## April 27th, 2018
 * Added [Senior Salutations](/senior), a networking event for undergrads to meet upperclassmen and graduating seniors!
 * Modified header so it takes up less space.

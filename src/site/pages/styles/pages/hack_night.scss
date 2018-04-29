@@ -1,19 +1,19 @@
 @import '../variables';
 
-.page__hack_night {    
-  .sponsors {
-    text-align: center;
-  }
-  
+.page__hack_night {  
   .sponsor_logo__title {
-    max-width: 400px;
+    display: block;
+    margin: 0 auto;
+    max-width: 300px;
     width: 100%;
     height: auto;
   }
   
   .sponsor_logo__silver {
-    margin: 0 $spacing $spacing $spacing;
-    max-width: 150px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: $spacing;
+    max-width: 120px;
     width: 100%;
     height: auto;
   }
