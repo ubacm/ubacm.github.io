@@ -49,7 +49,8 @@ ol > li {
 }
 
 .contents {
-  padding: $spacing 0;
+  padding-bottom: $spacing;
+  padding-top: $spacing;
   min-height: 90vh;
 
   &.pad_header {
