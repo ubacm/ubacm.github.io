@@ -10,7 +10,7 @@ Towards the end of the semester we will be holding raffles for a few different p
 
 The raffle will take place on *Monday, April 30th, 2018* in Davis 101.
 
-<small>Any member of UB ACM's leadership is not qualified for any of these raffle prizes.</small>
+<small>Members of UB ACM's leadership are ineligible for these raffle prizes.</small>
 
 ## Prizes
 The current raffle prizes are as followed (last updated April 1st, 2018):
