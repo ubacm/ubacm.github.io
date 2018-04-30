@@ -10,6 +10,8 @@ Towards the end of the semester we will be holding raffles for a few different p
 
 The raffle will take place on *Monday, April 30th, 2018* in Davis 101.
 
+<strong>To enter in the raffle use the following form - https://goo.gl/forms/8885CPbFnpWqhNEd2</strong>
+
 <small>Any member of UB ACM's leadership is not qualified for any of these raffle prizes.</small>
 
 ## Prizes
