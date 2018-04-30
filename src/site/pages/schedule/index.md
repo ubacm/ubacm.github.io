@@ -15,22 +15,6 @@ Remember that all of our member events are optional, but we'd love for you to co
 <div class="page__schedule">
   <div class="event">
     <div class="icon">
-      <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
-    </div>
-    <div class="copy">
-      <div class="name hack_night">
-        Hack Night co-hosted by ACV Auctions 5
-      </div>
-      <div class="date">
-        April 28th, 2018 1pm-9pm Davis 101
-      </div>
-      <div class="description">
-        Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
       <i class="fas fa-coffee fa-2x"></i><br />
     </div>
     <div class="copy">
@@ -370,6 +354,22 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         Making the transition from student to an intern or junior developer is difficult. But with the right tips, tricks, and skills, the process can be a lot easier.
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
+    </div>
+    <div class="copy">
+      <div class="name hack_night">
+        Hack Night co-hosted by ACV Auctions 5
+      </div>
+      <div class="date">
+        April 28th, 2018 1pm-9pm Davis 101
+      </div>
+      <div class="description">
+        Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
       </div>
     </div>
   </div>
