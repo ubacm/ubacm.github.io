@@ -44,12 +44,17 @@ ul {
   }
 }
 
+ol > li {
+  margin-bottom: 0;
+}
+
 .contents {
-  padding: $spacing 0;
+  padding-bottom: $spacing;
+  padding-top: $spacing;
   min-height: 90vh;
 
   &.pad_header {
-    padding-top: 140px;
+    padding-top: 100px;
   }
 
   .section_label {

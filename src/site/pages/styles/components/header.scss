@@ -1,31 +1,25 @@
 @import '../variables';
 
-$show-big-nav: 900px;
-$nav-height: 60px;
+$show-big-nav: 930px;
 $nav-border-bottom: 6px;
 
 .component__header {
+  background: $white-color;
+  border-bottom: $nav-border-bottom solid $accent-color;
+  border-bottom-left-radius: $rounded-corner;
+  border-bottom-right-radius: $rounded-corner;
+  box-shadow: 0 1px 4px $dark-accent-color;
+  height: $nav-height;
   position: fixed;
   width: 100%;
   z-index: 100;
 
   > .container {
-    @media (min-width: $show-big-nav) {
-      &:hover {
-        > .expansion {
-          display: block;
-        }
-      }
+    > .expansion.show_expansion {
+      display: block;
     }
 
     > .wrapper {
-      background: $white-color;
-      box-shadow: 0 1px 4px $dark-accent-color;
-      border-bottom: $nav-border-bottom solid $accent-color;
-      border-radius: $rounded-corner;
-      height: $nav-height;
-      margin-top: $spacing * 2;
-      padding: $spacing;
       position: relative;
       z-index: 200;
       
@@ -38,7 +32,8 @@ $nav-border-bottom: 6px;
           position: absolute;
   
           > img.logo {
-            height: 75px;
+            margin-top: $spacing;
+            height: 60px;
             width: auto;
           }
         }
@@ -52,19 +47,13 @@ $nav-border-bottom: 6px;
         right: 0;
         top: 0;
     
-        > .mobile_menu_toggle {
+        > .menu_toggle {
           color: $secondary-color;
-          display: none;
+          cursor: pointer;
+          display: inline-block;
           margin-right: $spacing * 2;
-          
         }
         
-        @media (max-width: $show-big-nav) {
-          > .mobile_menu_toggle {
-            display: inline-block;
-          }
-        }
-
         ul.links {
           display: inline-block;
           margin: 0 $spacing 0 0;
@@ -99,14 +88,15 @@ $nav-border-bottom: 6px;
       border-bottom-right-radius: $rounded-corner;
       color: $white-color;
       display: none;
-      top: $nav-height - $nav-border-bottom;
-      padding: $spacing 0;
+      top: $nav-height;
+      padding: $spacing / 2 0 $spacing 0;
       position: absolute;
       width: 100%;
       z-index: 100;
 
       > .menu {
         display: inline-flex;
+        padding-right: $interactive-size + $spacing;
         position: relative;
         float: right;
 
@@ -168,7 +158,7 @@ $nav-border-bottom: 6px;
         display: block;
       }
 
-      > .mobile_menu_toggle {
+      > .menu_toggle {
         color: $secondary-color;
         position: absolute;
         right: $spacing * 2;

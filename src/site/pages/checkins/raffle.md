@@ -12,7 +12,7 @@ The raffle will take place on *Monday, April 30th, 2018* in Davis 101.
 
 <strong>To enter in the raffle use the following form - https://goo.gl/forms/8885CPbFnpWqhNEd2</strong>
 
-<small>Any member of UB ACM's leadership is not qualified for any of these raffle prizes.</small>
+<small>Members of UB ACM's leadership are ineligible for these raffle prizes.</small>
 
 ## Prizes
 The current raffle prizes are as followed (last updated April 1st, 2018):

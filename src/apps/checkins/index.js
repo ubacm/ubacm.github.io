@@ -6,10 +6,15 @@ class CheckInsList extends React.Component {
     super()
 
     this.state = {
-      data: null,
+      members: null,
+      filter: 'all',
+      search: '',
     }
 
     this.fetchScores = this.fetchScores.bind(this)
+    this.getMembersToDisplay = this.getMembersToDisplay.bind(this)
+    this.handleSearchChange = this.handleSearchChange.bind(this)
+    this.handleSelectChange = this.handleSelectChange.bind(this)
   }
 
   componentDidMount() {
@@ -21,22 +26,45 @@ class CheckInsList extends React.Component {
     .then(resp => resp.json())
     .then(json => {
       this.setState({
-        data: json
+        members: json
       })
     })
     .catch(err => {
       this.setState({
-        data: null,
+        members: null,
       })
     })
   }
-
+  
+  getMembersToDisplay() {
+    const { members, filter, search } = this.state
+    return members.filter(member => (
+      filter === 'all' || member.score > 2
+    )).filter(member => (
+      search.length === 0 || member.username.includes(search) || member.slack_id.includes(search) || (member.first_name + ' ' + member.last_name).includes(search)
+    ))
+  }
+  
+  handleSearchChange(event) {
+    this.setState({
+      search: event.target.value
+    })
+  }
+  
+  handleSelectChange(event) {
+    this.setState({
+      filter: event.target.value
+    })
+  }
+  
   render() {
-    if (!this.state.data) {
+    const { members, filter, search } = this.state
+    
+    if (!members) {
       return <p>Fetching user data from server...</p>
     }
 
-    const memberEntries = this.state.data.map(member => (
+    const memberEntries = this.getMembersToDisplay().map(member => (
       <div className="member_entry" key={member.slack_id}>
         <div className="name">{member.first_name} {member.last_name}</div>
         <div className="username">{member.username}</div>
@@ -46,6 +74,15 @@ class CheckInsList extends React.Component {
 
     return (
       <div className="component__checkins_list">
+        <div className="controls">
+          <select onChange={this.handleSelectChange} value={filter}>
+            <option value="all">Show All</option>
+            <option value="voters">Eligible Voters Only</option>
+          </select>
+          {' '}
+          <input type="text" onChange={this.handleSearchChange} value={search} />
+          <span> Showing <strong>{this.getMembersToDisplay().length}</strong> members</span>
+        </div>
         <div className="header">
           <div className="name">Name</div>
           <div className="username">Slack Username</div>
