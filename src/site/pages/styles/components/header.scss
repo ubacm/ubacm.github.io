@@ -49,14 +49,11 @@ $nav-border-bottom: 6px;
     
         > .menu_toggle {
           color: $secondary-color;
-          display: none;
+          cursor: pointer;
+          display: inline-block;
           margin-right: $spacing * 2;
         }
         
-        > .menu_toggle {
-          display: inline-block;
-        }
-
         ul.links {
           display: inline-block;
           margin: 0 $spacing 0 0;
