@@ -15,28 +15,6 @@ Remember that all of our member events are optional, but we'd love for you to co
 <div class="page__schedule">
   <div class="event">
     <div class="icon">
-      <i class="fas fa-coffee fa-2x"></i><br />
-    </div>
-    <div class="copy">
-      <div class="name">
-        Chapter Elections and Check-in Marks Raffle
-      </div>
-      <div class="date">
-        April 30th, 2018 6pm-8pm Davis 101
-      </div>
-      <div class="description">
-        UB ACM is holding our Chapter elections to vote for the new leadership team of the 2018-2019 academic year! Check out <a href="/election">the Election page</a> to learn more how voting eligibilty, or, if you are interested in running for an officer position, how you can run for one or more of the positions!
-        <br />
-        <br />
-        Additionally, we will be voting on our new chapter constitution. Our constitution draft can be <a href="/constitution">found here</a>.
-        <br />
-        <br />
-        On the same day as the Chapter elections, we will hold our end-of-year raffle. You can trade your check-in marks for raffle entries. <a href="/checkins/raffle">Check out more about the raffle here</a> and how you can win prizes!
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
       <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
     </div>
     <div class="copy">
@@ -370,6 +348,28 @@ Remember that all of our member events are optional, but we'd love for you to co
       </div>
       <div class="description">
         Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <a href="/hack">Learn more.</a>
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-coffee fa-2x"></i><br />
+    </div>
+    <div class="copy">
+      <div class="name">
+        Chapter Elections and Check-in Marks Raffle
+      </div>
+      <div class="date">
+        April 30th, 2018 6pm-8pm Davis 101
+      </div>
+      <div class="description">
+        UB ACM is holding our Chapter elections to vote for the new leadership team of the 2018-2019 academic year! Check out <a href="/election">the Election page</a> to learn more how voting eligibilty, or, if you are interested in running for an officer position, how you can run for one or more of the positions!
+        <br />
+        <br />
+        Additionally, we will be voting on our new chapter constitution. Our constitution draft can be <a href="/constitution">found here</a>.
+        <br />
+        <br />
+        On the same day as the Chapter elections, we will hold our end-of-year raffle. You can trade your check-in marks for raffle entries. <a href="/checkins/raffle">Check out more about the raffle here</a> and how you can win prizes!
       </div>
     </div>
   </div>
