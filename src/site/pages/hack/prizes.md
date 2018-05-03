@@ -23,5 +23,5 @@ At the Hack Night semester finale (May 5th!), we will be taking project submissi
 ### Best Design
 **Prize**: Victrola Vintage 3-Speed Bluetooth Suitcase Turntable for up to 4 teammates.
 
-### Sponsor: Best Use of Google Cloud Compute
+### Sponsor: Best Use of [Google Cloud API](https://cloud.google.com/)
 **Prize**: Google Home Mini for up to 4 teammates.
