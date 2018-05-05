@@ -8,6 +8,8 @@ title: Hack Nights - Prizes
 # Prizes for Hack Nights
 At the Hack Night semester finale (May 5th!), we will be taking project submissions on anything students have worked on over the past semester. **Everyone attending will be voting for their favorite projects**, and the projects with the highest votes will win prizes! Each team member gets one of the listed item for the category they win, up to 4 items per team.
 
+<img src="/assets/hacknight/prizes.jpg" />
+
 ### Most Polished Hack
 **Prize**: Dell SE2416HX 23.8" Screen LED-Lit IPS Monitor for up to 4 teammates.
 
@@ -23,5 +25,5 @@ At the Hack Night semester finale (May 5th!), we will be taking project submissi
 ### Best Design
 **Prize**: Victrola Vintage 3-Speed Bluetooth Suitcase Turntable for up to 4 teammates.
 
-### Sponsor: Best Use of Google Cloud Compute
-**Prize**: TBD
+### Sponsor: Best Use of [Google Cloud API](https://cloud.google.com/)
+**Prize**: Google Home Mini for up to 4 teammates.

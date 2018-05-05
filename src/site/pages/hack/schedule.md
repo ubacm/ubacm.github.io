@@ -11,7 +11,9 @@ title: Hack Nights - Prizes
   <div class="one-half column">
     <h3>Davis 101</h3>
     <p>
-      <strong>9:00am</strong> - Hacking begins!<br />
+      <strong>9:00am</strong> - Check-ins begins!<br />
+      <strong>9:15am</strong> - Quick Announcements<br />
+      <br />
       <br />
       <br />
       <br />
@@ -19,15 +21,17 @@ title: Hack Nights - Prizes
       <strong>7:45pm</strong> - Project Submission ends<br />
       <strong>8:00pm</strong> - Project Presentations begin<br />
       <strong>8:30pm</strong> - Closing Ceremony and Prize Winners<br />
-      <strong>9:00am</strong> - Event ends!<br />
+      <strong>9:00pm</strong> - Event ends!<br />
     </p>
   </div>
   <div class="one-half column">
     <h3>Davis 113A</h3>
     <p>
       <br />
-      <strong>9:30am</strong> Google Cloud Q&A session<br />
+      <br />
+      <strong>9:30am</strong> - Google Cloud Q&A session<br />
       <strong>11:30am</strong> - Lunch from Wegmans<br />
+      <strong>4:30pm</strong> - ValueCentric Q&A session<br />
       <strong>5:30pm</strong> - Dinner from La Rosa<br />
     </p>
   </div>
