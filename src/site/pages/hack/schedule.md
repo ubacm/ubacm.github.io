@@ -17,6 +17,7 @@ title: Hack Nights - Prizes
       <br />
       <br />
       <br />
+      <br />
       <strong>6:00pm</strong> - Project Submission begins<br />
       <strong>7:45pm</strong> - Project Submission ends<br />
       <strong>8:00pm</strong> - Project Presentations begin<br />
