@@ -11,7 +11,7 @@ title: Hack Nights - Prizes
   <div class="one-half column">
     <h3>Davis 101</h3>
     <p>
-      <strong>9:00am</strong> - Check-ins begins!<br />
+      <strong>9:00am</strong> - Check-ins begin!<br />
       <strong>9:15am</strong> - Quick Announcements<br />
       <br />
       <br />
@@ -31,6 +31,8 @@ title: Hack Nights - Prizes
       <br />
       <strong>9:30am</strong> - Google Cloud Q&A session<br />
       <strong>11:30am</strong> - Lunch from Wegmans<br />
+      <strong>2:00pm</strong> - Google Cloud Q&A session (rerun)<br />
+      <strong>3:00pm</strong> - ACV Auctions Q&A session<br />
       <strong>4:30pm</strong> - ValueCentric Q&A session<br />
       <strong>5:30pm</strong> - Dinner from La Rosa<br />
     </p>
