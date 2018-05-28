@@ -3,14 +3,15 @@ title: UB ACM
 layout: landing.html
 ---
 
-# Hack Night co-hosted by ACV Auctions Semester Finale
-## May 5th, 2018 9am-9pm Davis 101
-Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. 
+# See you Fall 2018! We'll be right back.
+The 2017-2018 academic year has ended! We look forward
 
-This is our LAST Hack Night of the semester, so our sponsors ACV Auctions, Google, and ValueCentric will be coming to meet you! Submit any project you’ve worked on during this semester, and get a chance to win one of the prize categories. [Learn more](/hack)...
+## New to UB ACM?
+You can check out our past event schedule for Spring 2018 [on the Event Schedule page](/schedule) to get a feel of what kind of events we run.
 
-# Senior Salutations
-## May 7th, 2018 6pm-8pm Davis 101
-Say farewell to our upperclassmen. Before they leave for their summer internship or graduate, take some time to connect with them! We are going to have a roll call for our upperclassmen and seniors, instagrammable decor, and food (pizza and CAKE)! [Learn more...](/senior)
+Additionally, here's some of our programs in addition to our meetings:
+* [Hack Nights](/hack)
+* [Hackspace](/space)
 
-Graduating or going to an internship/REU? Sign up to be part of the roll call at <a href="https://goo.gl/forms/iPEGknEsmFVnt2g33" target="_blank">this form! https://goo.gl/forms/iPEGknEsmFVnt2g33</a>.
+## Got any questions?
+If you are current/prospective UB student, please [join our Slack team here](/join) and feel free to introduce yourself and ask on the **#general** channel!

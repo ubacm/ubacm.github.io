@@ -12,45 +12,7 @@ For your convenience, we created an updated calendar with all of the same events
 
 Remember that all of our member events are optional, but we'd love for you to come by and join us! We collect check-ins at events, and members will be awarded points for checking in.
 
-<div class="page__schedule">
-  <div class="event">
-    <div class="icon">
-      <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
-    </div>
-    <div class="copy">
-      <div class="name hack_night">
-        Hack Night co-hosted by ACV Auctions Semester Finale
-      </div>
-      <div class="date">
-        May 5th, 2018 9am-9pm Davis 101
-      </div>
-      <div class="description">
-        Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <br />
-        <br />
-        This is our LAST Hack Night of the semester, so our sponsors ACV Auctions, Google, and ValueCentric will be coming to meet you! Submit any project you’ve worked on during this semester, and get a chance to win one of the prize categories. <a href="/hack">Learn more.</a>
-      </div>
-    </div>
-  </div>
-  <div class="event">
-    <div class="icon">
-      <i class="fas fa-coffee fa-2x"></i><br />
-    </div>
-    <div class="copy">
-      <div class="name">
-        Senior Salutations
-      </div>
-      <div class="date">
-        May 7th, 2018 6pm-8pm Davis 101
-      </div>
-      <div class="description">
-        Say farewell to our upperclassmen. Before they leave for their summer internship or graduate, take some time to connect with them! We are going to have a roll call for our upperclassmen and seniors, instagrammable decor, and food (pizza and CAKE)! <a href="/senior">Learn more.</a>
-        <br />
-        <br />
-        Graduating or going to an internship/REU? Sign up to be part of the roll call at <a href="https://goo.gl/forms/iPEGknEsmFVnt2g33" target="_blank"> this form! https://goo.gl/forms/iPEGknEsmFVnt2g33</a>.
-      </div>
-    </div>
-  </div>
-</div>
+<!-- <div class="page__schedule"></div> -->
 
 # Past Events
 
@@ -370,6 +332,43 @@ Remember that all of our member events are optional, but we'd love for you to co
         <br />
         <br />
         On the same day as the Chapter elections, we will hold our end-of-year raffle. You can trade your check-in marks for raffle entries. <a href="/checkins/raffle">Check out more about the raffle here</a> and how you can win prizes!
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <img class="hack_night_logo" src="/assets/hacknight/logo.png" /><br />
+    </div>
+    <div class="copy">
+      <div class="name hack_night">
+        Hack Night co-hosted by ACV Auctions Semester Finale
+      </div>
+      <div class="date">
+        May 5th, 2018 9am-9pm Davis 101
+      </div>
+      <div class="description">
+        Hack Night co-hosted by ACV Auctions is a biweekly hack session at UB. Come build awesome projects, do homework, and have dinner with UB ACM. <br />
+        <br />
+        This is our LAST Hack Night of the semester, so our sponsors ACV Auctions, Google, and ValueCentric will be coming to meet you! Submit any project you’ve worked on during this semester, and get a chance to win one of the prize categories. <a href="/hack">Learn more.</a>
+      </div>
+    </div>
+  </div>
+  <div class="event">
+    <div class="icon">
+      <i class="fas fa-coffee fa-2x"></i><br />
+    </div>
+    <div class="copy">
+      <div class="name">
+        Senior Salutations
+      </div>
+      <div class="date">
+        May 7th, 2018 6pm-8pm Davis 101
+      </div>
+      <div class="description">
+        Say farewell to our upperclassmen. Before they leave for their summer internship or graduate, take some time to connect with them! We are going to have a roll call for our upperclassmen and seniors, instagrammable decor, and food (pizza and CAKE)! <a href="/senior">Learn more.</a>
+        <br />
+        <br />
+        Graduating or going to an internship/REU? Sign up to be part of the roll call at <a href="https://goo.gl/forms/iPEGknEsmFVnt2g33" target="_blank"> this form! https://goo.gl/forms/iPEGknEsmFVnt2g33</a>.
       </div>
     </div>
   </div>
