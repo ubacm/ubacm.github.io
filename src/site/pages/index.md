@@ -4,7 +4,7 @@ layout: landing.html
 ---
 
 # See you Fall 2018! We'll be right back.
-The 2017-2018 academic year has ended! We look forward
+The 2017-2018 academic year has ended! We look forward to seeing you again in the Fall!
 
 ## New to UB ACM?
 You can check out our past event schedule for Spring 2018 [on the Event Schedule page](/schedule) to get a feel of what kind of events we run.
