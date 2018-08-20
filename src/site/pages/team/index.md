@@ -48,8 +48,9 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       <img class="profile" src="/assets/placeholder.jpg" />
       <div class="name">Eric Weinman</div>
       <div class="description">
-        Computer Engineering B.S. 2021<br />
-        Treasurer
+        Computer Engineering B.S., Mathematics-Economics B.A., Political Science Minor 2021<br />
+        Treasurer<br />
+        [LinkedIn](https://www.linkedin.com/in/eric-weinman/)
       </div>
     </div>
   </div>
