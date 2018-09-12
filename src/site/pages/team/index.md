@@ -14,8 +14,8 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       <img class="profile" src="/assets/team/angus.jpg" />
       <div class="name">Angus Lam</div>
       <div class="description">
-        Computer Science B.S., Linguistics B.A. 2019<br />
         President<br />
+        Computer Science B.S., Linguistics B.A. 2019<br />
         [Website](http://angus.works)
         [LinkedIn](http://linkedin.com/in/angushtlam)
       </div>
@@ -26,8 +26,8 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       <img class="profile" src="/assets/team/tristan.jpg" />
       <div class="name">Tristan Wiley</div>
       <div class="description">
-        Computer Science B.S. 2021<br />
         Vice President<br />
+        Computer Science B.S. 2021<br />
         [Website](http://tristanwiley.com/)
       </div>
     </div>
@@ -37,8 +37,8 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       <img class="profile" src="/assets/team/stephen.jpg" />
       <div class="name">Stephen James</div>
       <div class="description">
-        Computer Science B.S./M.S., Mathematics Minor 2020<br />
         Vice Chair<br />
+        Computer Science B.S./M.S., Mathematics Minor 2020<br />
         [Website](https://www.stephenorjames.com/)
       </div>
     </div>
@@ -48,8 +48,8 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       <img class="profile" src="/assets/placeholder.jpg" />
       <div class="name">Eric Weinman</div>
       <div class="description">
-        Computer Engineering B.S., Mathematics-Economics B.A., Political Science Minor 2021<br />
         Treasurer<br />
+        Computer Engineering B.S., Mathematics-Economics B.A., Political Science Minor 2021<br />
         [LinkedIn](https://www.linkedin.com/in/eric-weinman/)
       </div>
     </div>
@@ -62,8 +62,8 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       <img class="profile" src="/assets/team/peter.jpg" />
       <div class="name">Peter Gottesman</div>
       <div class="description">
-        Computer Engineering B.S. 2021<br />
         Secretary<br />
+        Computer Engineering B.S. 2021<br />
         [GitHub](https://github.com/PeterGottesman)
       </div>
     </div>
@@ -73,8 +73,8 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       <img class="profile" src="/assets/team/hana.jpg" />
       <div class="name">Hana Basheer</div>
       <div class="description">
-        Computer Science B.S., Mathematics Minor 2021<br />
         Public Relations Chair<br />
+        Computer Science B.S., Mathematics Minor 2021<br />
       </div>
     </div>
   </div>
@@ -93,7 +93,8 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       <img class="profile" src="/assets/team/liam.jpg" />
       <div class="name">Liam Gensel</div>
       <div class="description">
-        Computer Science B.S., Mathematics Minor 2019<br />
+        Software Engineering Chair<br />
+        Computer Science B.S. 2019<br />
         [Website](http://www.liamgensel.com/)
       </div>
     </div>
