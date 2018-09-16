@@ -80,7 +80,7 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
   </div>
   <div class="three columns">
     <div class="team_member">
-      <img class="profile" src="/assets/placeholder.jpg" />
+      <img class="profile" src="/assets/team/edwin.jpg" />
       <div class="name">Edwin Hung</div>
       <div class="description">
         Events Coordination Chair<br />
