@@ -1,4 +1,9 @@
-@import '../variables';
+@import "../variables";
+
+.googleCalendar {
+  text-align: center;
+  margin-bottom: 15px;
+}
 
 .page__schedule {
   &.past_events {
@@ -32,7 +37,7 @@
         width: 100%;
       }
     }
-    
+
     > .copy {
       margin-left: $spacing;
 
@@ -40,16 +45,16 @@
         color: $accent-color;
         font-size: 24px;
         font-weight: 800;
-        
+
         &.hack_night {
           color: $hack-night-color;
         }
       }
-  
+
       > .date {
         font-weight: 800;
       }
-  
+
       > .description {
         min-height: 72px;
       }
