@@ -45,7 +45,7 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
   </div>
   <div class="three columns">
     <div class="team_member">
-      <img class="profile" src="/assets/placeholder.jpg" />
+      <img class="profile" src="/assets/team/eric.png" />
       <div class="name">Eric Weinman</div>
       <div class="description">
         Treasurer<br />
