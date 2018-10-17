@@ -50,16 +50,18 @@ class Header extends React.Component {
             <div className="menu">
               <ul className="links">
                 <li className="links_width">What is UB ACM?</li>
+                <li><a className="title" href="https://apps.ubacm.org">Chapter Apps</a></li>
+                <li className="indent"><a href="https://apps.ubacm.org/resumes">Resume Book</a></li>
+                <br />
                 <li><a className="title" href="/checkins">How to Check In</a></li>
-                <li className="indent"><a href="/checkins/list">Check-In Marks Log</a></li>
+                <li className="indent"><a href="/checkins/list">Check-In Log</a></li>
                 <br />
                 <li><a className="title" href="/team">Leadership Team</a></li>
                 <li><a className="title" href="/constitution">Constitution</a></li>
-                <li><a className="title" href="/log">Changelog</a></li>
               </ul>
               <ul className="links">
                 <li className="links_width">Event Schedule</li>
-                <li><a className="title" href="/hack">Hack Night <img className="img_icon" src="/assets/hacknight/logo.png" /></a></li>
+                <li><a className="title" href="/hack">Hack Nights <img className="img_icon" src="/assets/hacknights/logo.png" /></a></li>
                 <li className="indent"><a href="/hack#prizes">Prizes</a></li>
                 <li className="indent"><a href="/hack#resumes">Resumes</a></li>
                 <li><a className="title" href="/space">Hackspace <img className="img_icon" src="/assets/hackspace/logo.png" /></a></li>

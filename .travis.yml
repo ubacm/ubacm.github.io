@@ -12,8 +12,6 @@ script:
 
 deploy:
   provider: pages
-  edge:
-    branch: pages-ivar-set
   target-branch: gh-pages
   skip_cleanup: true
   github_token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard.
