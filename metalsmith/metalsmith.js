@@ -12,26 +12,32 @@ module.exports = {
     .destination(res.DIST)
     .clean(false)
     .use(markdown())
-    .use(sass({
-      outputDir: 'styles',
-      outputStyle: 'expanded',
-      sourceMap: true,
-      sourceMapContents: true,
-    }))
-    .use(layouts({
-      directory: path.resolve(res.SITE_SRC, 'layouts'),
-      engine: 'handlebars',
-      partials: path.resolve(res.SITE_SRC, 'layouts', 'partials'),
-      rename: true,
-    }))
-    .use(permalinks({
-      relative: false,
-    })),
+    .use(
+      sass({
+        outputDir: 'styles',
+        outputStyle: 'compressed',
+        sourceMap: true,
+        sourceMapContents: true,
+      })
+    )
+    .use(
+      layouts({
+        directory: path.resolve(res.SITE_SRC, 'layouts'),
+        engine: 'handlebars',
+        partials: path.resolve(res.SITE_SRC, 'layouts', 'partials'),
+        rename: true,
+      })
+    )
+    .use(
+      permalinks({
+        relative: false,
+      })
+    ),
 
   build: app => {
     app.build(err => {
       if (err) throw err
       return true
     })
-  }
+  },
 }

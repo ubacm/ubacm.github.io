@@ -15,9 +15,7 @@ module.exports = {
       // Build React and JavaScript code.
       {
         test: /\.(js|jsx)$/,
-        use: [
-          { loader: 'babel-loader' },
-        ],
+        use: [{loader: 'babel-loader'}],
         exclude: /node_modules/,
       },
     ],
