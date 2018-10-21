@@ -54,8 +54,6 @@ class Header extends React.Component {
                 <li className="indent"><a href="https://apps.ubacm.org/resumes">Resume Book</a></li>
                 <br />
                 <li><a className="title" href="/checkins">How to Check In</a></li>
-                <li className="indent"><a href="/checkins/list">Check-In Log</a></li>
-                <br />
                 <li><a className="title" href="/team">Leadership Team</a></li>
                 <li><a className="title" href="/constitution">Constitution</a></li>
               </ul>
@@ -64,6 +62,7 @@ class Header extends React.Component {
                 <li><a className="title" href="/hack">Hack Nights <img className="img_icon" src="/assets/hacknights/logo.png" /></a></li>
                 <li className="indent"><a href="/hack#prizes">Prizes</a></li>
                 <li className="indent"><a href="/hack#resumes">Resumes</a></li>
+                <br />
                 <li><a className="title" href="/space">Hackspace <img className="img_icon" src="/assets/hackspace/logo.png" /></a></li>
               </ul>
               <ul className="links">
@@ -76,12 +75,12 @@ class Header extends React.Component {
             </div>
           </div>
         </div>
-    
+
         <div className={`mobile_nav${showMenu ? ' show_nav' : ''}`}>
           <div className="menu_toggle" onClick={this.toggleMenu}>
             <i className="fas fa-2x fa-times"></i>
           </div>
-    
+
           <ul className="links">
             <li><a href="/">Home</a></li>
             <li><a href="/about">What is UB ACM?</a></li>
