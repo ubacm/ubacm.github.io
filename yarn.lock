@@ -2151,9 +2151,9 @@ ejs@^2.5.9:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/ejs/-/ejs-2.6.1.tgz#498ec0d495655abc6f23cd61868d926464071aa0"
 
-electric-blue@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/electric-blue/-/electric-blue-1.0.1.tgz#af380385a9bf926818e952adec183cc42e57edc3"
+electric-blue@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/electric-blue/-/electric-blue-1.0.2.tgz#74dc516540b3b53f0c3a90dab8ed1d0db555d321"
   dependencies:
     animate.css "^3.7.0"
     normalize.css "^8.0.0"
