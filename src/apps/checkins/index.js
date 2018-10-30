@@ -22,7 +22,7 @@ class CheckInsList extends React.Component {
   }
 
   fetchScores() {
-    fetch('https://chicken-ubacm.herokuapp.com/users/scores')
+    fetch('https://checkin-chicken.herokuapp.com/users/scores')
     .then(resp => resp.json())
     .then(json => {
       this.setState({
