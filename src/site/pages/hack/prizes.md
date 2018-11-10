@@ -8,7 +8,7 @@ title: Hack Nights - Prizes
 # Hack Nights Fall 2018 Prizes
 On November 10th, 2018, we will be taking project submissions on anything students have worked on over the past semester. Everyone attending will be voting for their favorite projects, and the projects with the highest votes will win prizes!
 
-<a class="button" disabled>Project Submissions Are Not Opened Yet</a>
+<a class="button button_primary" href="https://vote.ubacm.org/events/" target="_blank">Submit A Project</a>
 
 ## Categories
 - **Most Polished Project** The project with the most polish.
