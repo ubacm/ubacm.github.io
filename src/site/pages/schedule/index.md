@@ -5,7 +5,7 @@ title: Schedule
 
 # Schedule
 
-This is UB ACM's Fall 2018 schedule. This page will always be up-to-date with all of UB ACM's events and new events can be added at a later date, so make sure you check frequently!
+This is UB ACM's schedule. This page will always be up-to-date with all of UB ACM's events and new events can be added at a later date, so make sure you check frequently!
 
 Remember that all of our member events are optional, but we'd love for you to come by and join us! We collect check-ins at events, and members will be awarded points for checking in.
 
