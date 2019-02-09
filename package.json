@@ -10,7 +10,7 @@
     "start-webpack": "webpack --config webpack.config.js --mode development --watch",
     "build-site": "node metalsmith/build.js",
     "build-webpack": "webpack --config webpack.config.js --mode production",
-    "dev": "npm-run-all --parallel start-webpack start-site"
+    "start": "npm-run-all --parallel start-webpack start-site"
   },
   "dependencies": {
     "electric-blue": "^1.0.2",
