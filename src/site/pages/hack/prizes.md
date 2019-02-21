@@ -6,7 +6,7 @@ title: Hack Nights - Prizes
 [Back to Hack Nights](/hack)
 
 # Hack Nights Spring 2019 Prizes
-On November 10th, 2018, we will be taking project submissions on anything students have worked on over the past semester. Everyone attending will be voting for their favorite projects, and the projects with the highest votes will win prizes!
+We will be taking project submissions on anything students have worked on over the past semester. Everyone attending will be voting for their favorite projects, and the projects with the highest votes will win prizes!
 
 __Submissions opening soon__
 <!-- <a class="button button_primary" href="https://vote.ubacm.org/events/" target="_blank">Submit A Project</a> -->
