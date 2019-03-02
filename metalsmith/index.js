@@ -9,7 +9,7 @@ metalsmith.app.use(
       baseDir: res.DIST,
       index: 'index.html',
     },
-    files: ['src/site/**/*.*'],
+    files: ['site/**/*.*'],
   })
 )
 

@@ -3,8 +3,8 @@ const res = require('./res')
 
 module.exports = {
   entry: {
-    checkins: './src/apps/checkins/index.js',
-    header: './src/apps/header/index.js',
+    checkins: './apps/checkins/index.js',
+    header: './apps/header/index.js',
   },
   output: {
     filename: '[name].js',
