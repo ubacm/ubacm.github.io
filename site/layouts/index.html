@@ -1,0 +1,49 @@
+{{#> template}}
+{{#*inline "head"}}{{/inline}}
+{{#*inline "body"}}
+{{> header}}
+<div class="hero" data-image="davis">
+  <div class="container">
+    <div class="hero__content" data-overlay>
+      <div class="landing__hero">
+        <div class="branding">
+          <img class="logo" src="/assets/ubacm.png" />
+          <h1>UB ACM</h1>
+        </div>
+        <p class="subtitle">Computer science by students for students.</p>
+        <a href="/join" class="waves-effect waves-light btn">Stay Updated</a>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="content landing__content">
+  <div class="container">
+    <a class="block" data-image="ubacm" href="/about">
+      <div class="label">
+        <h3>What is UB ACM?</h3>
+        <p>Find out what we do.</p>
+      </div>
+    </a>
+    <a class="block" data-image="schedule" href="/schedule">
+      <div class="label">
+        <h3>Event Schedule</h3>
+        <p>Our latest chapter events</p>
+      </div>
+    </a>
+    <a class="block" data-image="hack-nights" href="/hack">
+      <div class="label">
+        <h3>Hack Nights</h3>
+        <p>Weekend project sessions</p>
+      </div>
+    </a>
+    <a class="block" data-image="hackspace" href="/space">
+      <div class="label">
+        <h3>Hackspace</h3>
+        <p>UB's coworking space</p>
+      </div>
+    </a>
+  </div>
+</div>
+{{> footer }}
+{{/inline}}
+{{/template}}

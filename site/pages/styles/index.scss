@@ -1,8 +1,20 @@
-@import '../../../node_modules/electric-blue/dist/electricblue.min';
+@import '../../../node_modules/materialize-css/sass/materialize.scss';
+@import '../../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss';
 
-@import 'header';
-@import 'pages/checkins_list';
-@import 'pages/hack_night';
-@import 'pages/quick_updates';
-@import 'pages/schedule';
-@import 'pages/team';
+@import 'ubacm/content';
+@import 'ubacm/footer';
+@import 'ubacm/header';
+@import 'ubacm/hero';
+@import 'ubacm/navbar';
+@import 'ubacm/variables';
+
+@import 'pages/landing';
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $color-90;
+  font-family: 'Roboto';
+}

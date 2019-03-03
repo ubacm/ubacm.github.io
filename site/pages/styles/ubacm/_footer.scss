@@ -1,0 +1,27 @@
+@import 'variables';
+
+.partial__footer {
+  background: $color-a10;
+  color: $color-80;
+  padding: $space 0;
+
+  .logos {
+    align-items: center;
+    display: flex;
+    overflow: hidden;
+
+    .logo {
+      display: inline-block;
+      width: 50px;
+      height: auto;
+      margin-right: $space;
+    }
+
+    .logo_wide {
+      display: inline-block;
+      width: 160px;
+      height: auto;
+      margin-right: $space;
+    }
+  }
+}

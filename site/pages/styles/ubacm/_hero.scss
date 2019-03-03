@@ -1,0 +1,86 @@
+@import 'variables';
+
+.hero {
+  align-items: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  display: flex;
+  height: 500px;
+  position: relative;
+
+  > .container {
+    margin: unset;
+  }
+
+  .hero__content {
+    position: absolute;
+    bottom: 0;
+    height: 60%;
+    width: 100%;
+    z-index: 1;
+
+    &[data-overlay] {
+      background-color: rgba(238, 239, 251, 0.95);
+
+      &:before {
+        background: rgba(238, 239, 251, 0.95);
+        content: '';
+        height: 100%;
+        position: absolute;
+        right: 0;
+        top: -100%;
+        transform: skew(92deg);
+        transform-origin: 0 100%;
+        width: 100vw;
+        z-index: -1;
+      }
+    }
+  }
+
+  
+}
+
+.hero[data-image="davis"] {
+  background-image: url('/assets/davis_new.jpg');
+}
+
+@media screen and ($breakpoint-tablet-portrait) {}
+@media screen and ($breakpoint-tablet-landscape) {
+  .hero {
+    height: 80vh;
+    min-height: 700px;
+    z-index: 0;
+
+    > .container {
+      height: 100%;
+      margin: 0 auto;
+    }
+
+    .hero__content {
+      height: 100%;
+      margin: 0;
+      position: relative;
+      width: 50%;
+
+      &[data-overlay] {
+        background-color: unset;
+
+        &:before {
+          background: rgba(251, 251, 255, 0.95);
+          content: '';
+          height: 100%;
+          position: absolute;
+          right: 0;
+          top: 0;
+          transform: skew(-8deg);
+          width: 100vw;
+          z-index: -1;
+        }
+      }
+    }
+  }
+}
+
+@media screen and ($breakpoint-desktop) {}
+@media screen and ($breakpoint-big-desktop) {}
