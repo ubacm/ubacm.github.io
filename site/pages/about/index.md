@@ -34,8 +34,8 @@ All of our weekly meetings, events, and hackathons are optional, so pick and cho
 <br />
 <div class="row">
   <div class="col m8">
-    <h3>Hack Night co-hosted by ACV Auctions</h3>
-    <p>Build awesome projects, do homework, or just hang out with your fellow peers at Hack Night! Our Hack Night event series are recurring Saturday events at University at Buffalo where students gather and work together in Davis 101. The event is sponsored by reputable companies from Buffalo and major tech hub. <a href="/hack">Learn more about Hack Nights here</a></p>
+    <h3>Hack Nights co-hosted by ACV Auctions</h3>
+    <p>Build awesome projects, do homework, or just hang out with your fellow peers at hack night! Our Hack Nights event series are recurring Saturday events at University at Buffalo where students gather and work together in Davis 101. The event is sponsored by reputable companies from Buffalo and major tech hub. <a href="/hack">Learn more about Hack Nights here</a></p>
   </div>
   <div class="col m4">
     <img src="/assets/about/hacknight.jpg" />
