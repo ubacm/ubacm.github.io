@@ -11,13 +11,13 @@ nav {
   transform: translate(0); // Bring it above the hero.
 
   .brand-logo {
-    position: absolute;
     font-size: 22px;
     font-weight: 700;
 
     span.branding {
       color: $color-a0;
       margin-left: 75px;
+      white-space: nowrap;
     }
 
     img.logo {
@@ -78,4 +78,11 @@ nav a.sidenav-trigger i {
 .img_icon {
   height: 11px;
   width: auto;
+}
+
+
+@media screen and (min-width: 1000px) {
+  .brand-logo {
+    margin-left: 50px;
+  }
 }
