@@ -10,8 +10,6 @@ UB ACM require everyone who attends our events to check in. As a University at B
 <a class="waves-effect waves-teal btn" href="/checkins/list">List of Member Check-Ins</a>
 <a class="waves-effect waves-teal btn-flat" href="/checkins/raffle">Raffle</a>
 
-<hr />
-
 ## Why do I need to check in?
 By checking in to our event, we can provide numbers to the two University at Buffalo entities we're housed under, the Student Association (SA) and the School of Engineering and Applied Sciences (SEAS). These numbers are important to show that our events are in demand and in turn we can receive more support from the school.
 
@@ -28,31 +26,31 @@ Collecting check-in marks will allow members to have:
 
 ## How can I check in?
 <div class="row">
-  <div class="one-third column">
+  <div class="col s4">
     <h3>Step 1</h3>
     <p>Visit any channel on our Slack workspace. If you can't pick one, _#general_ is a good pick.</p>
   </div>
-  <div class="two-thirds column">
+  <div class="col s8">
     <img src="/assets/checkins/step1.png" />
   </div>
 </div>
 <br />
 <div class="row">
-  <div class="one-third column">
+  <div class="col s4">
     <h3>Step 2</h3>
     <p>Type in the <em>command</em> <pre>/checkin</pre> followed by the event code provided at the event.</p>
   </div>
-  <div class="two-thirds column">
+  <div class="col s8">
     <img src="/assets/checkins/step2.png" />
   </div>
 </div>
 <br />
 <div class="row">
-  <div class="one-third column">
+  <div class="col s4">
     <h3>Step 3</h3>
     <p>Send the command and you should see a success message if you entered it correctly. If otherwise, double check the event code with someone!</p>
   </div>
-  <div class="two-thirds column">
+  <div class="col s8">
     <img src="/assets/checkins/step3.png" />
   </div>
 </div>

@@ -4,12 +4,18 @@
   background-color: inherit;
   overflow: auto;
 
-  &.offset_navbar {
-    padding-top: 60px;
+  &.more_padding {
+    padding: 60px 0;
   }
 
   img {
     width: 100%;
     height: auto;
+  }
+
+  // Restore bullet points (thanks materialize)
+  ul:not(.browser-default) > li {
+    list-style-type: disc;
+    margin-left: $space;
   }
 }
