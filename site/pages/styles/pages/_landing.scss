@@ -69,16 +69,16 @@
   }
 
   &[data-image="ubacm"] {
-    background-image: url('/assets/about/workshop.jpg');
+    background-image: url('/assets/stock/people.jpg');
   }
   &[data-image="schedule"] {
-    background-image: url('/assets/hackspace/coworking.jpg');
+    background-image: url('/assets/about/workshop.jpg');
   }
   &[data-image="hack-nights"] {
     background-image: url('/assets/hacknight/hero.jpg');
   }
   &[data-image="hackspace"] {
-    background-image: url('/assets/hackspace/entrance.jpg');
+    background-image: url('/assets/hackspace/coworking.jpg');
   }
 }
 
