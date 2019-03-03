@@ -12,17 +12,12 @@ $hack-night-color: #ca2451;
 $spacing: 20px;
 $interactive-size: 44px;
 $rounded-corner: 6px;
-$nav-height: 50px;
+$nav-height: 44px;
 $show-big-nav: 930px;
-$nav-border-bottom: 6px;
 
-
-.component__header {
+.navbar {
   background: $white-color;
-  border-bottom: $nav-border-bottom solid $accent-color;
-  border-bottom-left-radius: $rounded-corner;
-  border-bottom-right-radius: $rounded-corner;
-  box-shadow: 0 1px 4px $dark-accent-color;
+  box-shadow: 0 0 4px $dark-accent-color;
   color: $color-0;
   height: $nav-height;
   position: fixed;
@@ -35,7 +30,7 @@ $nav-border-bottom: 6px;
     }
 
     > .wrapper {
-      height: $nav-height - $nav-border-bottom;
+      height: $nav-height;
       position: relative;
       z-index: 200;
       

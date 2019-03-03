@@ -22,7 +22,7 @@ class Header extends React.Component {
     const {showMenu} = this.state
 
     return (
-      <div className="component__header">
+      <div className="navbar">
         <div className="container" style={{position: 'relative'}}>
           <div className="wrapper">
             <div className="branding">
