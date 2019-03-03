@@ -1,4 +1,4 @@
-@import 'variables';
+@import 'ubacm/variables';
 
 .hero {
   align-items: center;
@@ -44,9 +44,11 @@
 .hero[data-image="davis"] {
   background-image: url('/assets/davis_new.jpg');
 }
-
 .hero[data-image="hackspace"] {
   background-image: url('/assets/hackspace/hero.jpg');
+}
+.hero[data-image="hack-nights"] {
+  background-image: url('/assets/hacknight/hero.jpg');
 }
 
 @media screen and ($breakpoint-tablet-portrait) {}

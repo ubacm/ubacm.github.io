@@ -3,9 +3,8 @@ const res = require('./res')
 
 module.exports = {
   entry: {
-    checkins: './apps/checkins/index.js',
-    header: './apps/header/index.js',
     materialize: './apps/materialize/index.js',
+    navbar: './apps/navbar/index.js',
   },
   output: {
     filename: '[name].js',

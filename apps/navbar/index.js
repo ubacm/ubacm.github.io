@@ -175,4 +175,4 @@ class Header extends React.Component {
   }
 }
 
-ReactDOM.render(<Header />, document.getElementById('app__header'))
+ReactDOM.render(<Header />, document.getElementById('app__navbar'))
