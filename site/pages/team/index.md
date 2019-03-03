@@ -9,7 +9,7 @@ contents_class: page__team
 The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 academic year. We are an official ACM student chapter recognized by the national ACM organization and University at Buffalo SEAS and Student Association. Our latest constitution is available [here](/constitution).
 
 <div class="row">
-  <div class="col s3">
+  <div class="col m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/angus.jpg" />
       <div class="name">Angus Lam</div>
@@ -21,7 +21,7 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       </div>
     </div>
   </div>
-  <div class="col s3">
+  <div class="col m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/tristan.jpg" />
       <div class="name">Tristan Wiley</div>
@@ -32,7 +32,7 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       </div>
     </div>
   </div>
-  <div class="col s3">
+  <div class="col m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/stephen.jpg" />
       <div class="name">Stephen James</div>
@@ -43,7 +43,7 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       </div>
     </div>
   </div>
-  <div class="col s3">
+  <div class="col m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/eric.png" />
       <div class="name">Eric Weinman</div>
@@ -57,7 +57,7 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
 </div>
 <br />
 <div class="row">
-  <div class="col s3">
+  <div class="col m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/peter.jpg" />
       <div class="name">Peter Gottesman</div>
@@ -68,7 +68,7 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       </div>
     </div>
   </div>
-  <div class="col s3">
+  <div class="col m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/hana.jpg" />
       <div class="name">Hana Basheer</div>
@@ -78,7 +78,7 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       </div>
     </div>
   </div>
-  <div class="col s3">
+  <div class="col m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/edwin.jpg" />
       <div class="name">Edwin Hung</div>
@@ -88,7 +88,7 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       </div>
     </div>
   </div>
-  <div class="col s3">
+  <div class="col m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/liam.jpg" />
       <div class="name">Liam Gensel</div>

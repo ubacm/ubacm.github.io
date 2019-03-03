@@ -45,6 +45,10 @@
   background-image: url('/assets/davis_new.jpg');
 }
 
+.hero[data-image="hackspace"] {
+  background-image: url('/assets/hackspace/hero.jpg');
+}
+
 @media screen and ($breakpoint-tablet-portrait) {}
 @media screen and ($breakpoint-tablet-landscape) {
   .hero {

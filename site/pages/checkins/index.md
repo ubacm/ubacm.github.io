@@ -26,31 +26,31 @@ Collecting check-in marks will allow members to have:
 
 ## How can I check in?
 <div class="row">
-  <div class="col s4">
+  <div class="col m4">
     <h3>Step 1</h3>
     <p>Visit any channel on our Slack workspace. If you can't pick one, _#general_ is a good pick.</p>
   </div>
-  <div class="col s8">
+  <div class="col m8">
     <img src="/assets/checkins/step1.png" />
   </div>
 </div>
 <br />
 <div class="row">
-  <div class="col s4">
+  <div class="col m4">
     <h3>Step 2</h3>
     <p>Type in the <em>command</em> <pre>/checkin</pre> followed by the event code provided at the event.</p>
   </div>
-  <div class="col s8">
+  <div class="col m8">
     <img src="/assets/checkins/step2.png" />
   </div>
 </div>
 <br />
 <div class="row">
-  <div class="col s4">
+  <div class="col m4">
     <h3>Step 3</h3>
     <p>Send the command and you should see a success message if you entered it correctly. If otherwise, double check the event code with someone!</p>
   </div>
-  <div class="col s8">
+  <div class="col m8">
     <img src="/assets/checkins/step3.png" />
   </div>
 </div>

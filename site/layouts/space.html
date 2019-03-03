@@ -1,29 +1,28 @@
-<!doctype html>
-<html>
-<head>
-  <title>UB ACM</title>
-  {{> metadata }}
-</head>
-<body class="page__hackspace">
-  {{> header }}
-  <div class="partial__hero hackspace">
-    <div class="container">
-      <div class="hero_copy">
-        <img class="logo" src="/assets/hackspace/logo.png" />
+{{#> template}}
+{{#*inline "body"}}
+{{> header}}
+<div class="hero" data-image="hackspace">
+  <div class="container">
+    <div class="hero__content" data-overlay>
+      <div class="space__hero">
+        <div class="branding">
+          <img class="logo" src="/assets/hackspace/logo.png" />
+          <h1>Hackspace</h1>
+        </div>
+        <p class="subtitle">University at Buffalo's student coworking space</p>
       </div>
     </div>
   </div>
-  <div class="container contents">
+</div>
+<div class="content">
+  <div class="container">
     <div class="row">
-      <div class="two-thirds column">
+      <div class="col m8">
         <h3 class="section_label">What is Hackspace?</h3>
         <p class="big">University at Buffalo's computer science and engineering coworking hackerspace, managed by UB ACM.</p>
         <p>
           The Hackspace is a 30-person room that is dedicated as a computer science and engineering coworking hackerspace. Students are free to use this room during our opening hours for work.
         </p>
-        
-        <img src="/assets/hackspace/coworking.jpg" /><br />
-        <br />
 
         <h3 class="section_label">Can I use this place?</h3>
         <p>
@@ -44,9 +43,11 @@
           </li>
         </ol>
         <p>Any infractions will result in a warning or ban from using the Hackspace.</p>
+
+        <img src="/assets/hackspace/coworking.jpg" />
       </div>
 
-      <div class="one-third column">
+      <div class="col m4">
         <h3 class="section_label">Location</h3>
         <h4>
           O'Brian 5
@@ -73,6 +74,7 @@
       </div>
     </div>
   </div>
-  {{> footer }}
-</body>
-</html>
+</div>
+{{> footer }}
+{{/inline}}
+{{/template}}
