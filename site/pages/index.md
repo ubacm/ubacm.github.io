@@ -1,4 +1,4 @@
 ---
 title: UB ACM
-layout: index.html
+layout: landing.html
 ---
