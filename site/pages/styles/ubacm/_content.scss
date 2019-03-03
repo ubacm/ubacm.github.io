@@ -2,5 +2,14 @@
 
 .content {
   background-color: inherit;
-  z-index: 10;
+  overflow: auto;
+
+  &.offset_navbar {
+    padding-top: 60px;
+  }
+
+  img {
+    width: 100%;
+    height: auto;
+  }
 }

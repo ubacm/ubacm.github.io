@@ -10,10 +10,10 @@ UB ACM is free for all University at Buffalo students of any major. UB ACM's onl
 
 We also have our club's event schedule available on our website and in a public Google Calendar. [You can find them here.](/schedule)
 
-<a class="button button_primary" href="https://ubacm.slack.com/signup" target="_blank">
+<a class="btn waves-effect waves-light" href="https://ubacm.slack.com/signup" target="_blank">
   Join our Slack workspace!
 </a>
-<a class="button" href="/conduct">
+<a class="btn-flat waves-effect waves-light" href="/conduct">
   Community Code of Conduct
 </a>
 

@@ -1,14 +1,11 @@
-<!doctype html>
-<html>
-<head>
-  <title>{{ title }} | UB ACM</title>
-  {{> metadata }}
-</head>
-<body>
-  {{> header }}
-  <div class="container contents pad_header {{ contents_class }}">
+{{#> template}}
+{{#*inline "body"}}
+{{> header}}
+<div class="content offset_navbar">
+  <div class="container">
     {{{ contents }}}
   </div>
-  {{> footer }}
-</body>
-</html>
+</div>
+{{> footer }}
+{{/inline}}
+{{/template}}

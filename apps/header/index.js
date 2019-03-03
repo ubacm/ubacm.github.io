@@ -69,9 +69,6 @@ class Header extends React.Component {
                     Chapter Apps
                   </a>
                 </li>
-                <li className="indent">
-                  <a href="https://apps.ubacm.org/resumes">Resume Book</a>
-                </li>
                 <br />
                 <li>
                   <a className="title" href="/checkins">
@@ -101,10 +98,7 @@ class Header extends React.Component {
                   </a>
                 </li>
                 <li className="indent">
-                  <a href="/hack#prizes">Prizes</a>
-                </li>
-                <li className="indent">
-                  <a href="/hack#resumes">Resumes</a>
+                  <a href="/hack/prizes">Prizes</a>
                 </li>
                 <br />
                 <li>

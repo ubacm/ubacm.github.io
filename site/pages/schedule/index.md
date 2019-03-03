@@ -15,4 +15,4 @@ Remember that all of our member events are optional, but we'd love for you to co
 
 For your convenience, we created an updated calendar with all of the same events that you can add to your Google Calendar. We highly recommend you to add it to your calendar so you can stay on top of our events.
 
-<a class="button button_primary" href="https://calendar.google.com/calendar/b/4?cid=dWJhY20ub3JnQGdtYWlsLmNvbQ" target="_blank">+ Google Calendar</a>
+<a class="btn waves-effect waves-light" href="https://calendar.google.com/calendar/b/4?cid=dWJhY20ub3JnQGdtYWlsLmNvbQ" target="_blank">+ Google Calendar</a>
