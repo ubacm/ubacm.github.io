@@ -16,7 +16,7 @@ The following is the leadership team of UB ACM for the Fall 2018 to Spring 2019 
       <div class="description">
         <i>President</i><br />
         Computer Science B.S., Linguistics B.A. 2019<br />
-        [Website](https://angus.id)
+        [Website](https://angus.dev)
         [LinkedIn](https://linkedin.com/in/angushtlam)
       </div>
     </div>
