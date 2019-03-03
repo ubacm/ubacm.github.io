@@ -46,7 +46,7 @@
 
   &:hover {
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
-    transform: translateY(-3px); // To make the div stand above for the box-shadow.
+    transform: translateY(0); // To make the div stand above for the box-shadow.
     filter: saturate(1.5);
     transition: transform 1s ease, box-shadow 0.3s;
   }

@@ -3,7 +3,6 @@ const res = require('./res')
 
 module.exports = {
   entry: {
-    materialize: './apps/materialize/index.js',
     navbar: './apps/navbar/index.js',
   },
   output: {

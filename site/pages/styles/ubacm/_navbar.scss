@@ -1,212 +1,81 @@
-@import '../variables';
+@import 'ubacm/variables';
 
-$accent-color: #005bbb;
-$secondary-color: #00a69c;
-$terniary-color: #e56a54;
-$white-color: #fff;
-$black-color: #000;
-$grey-color: #666;
-$muted-color: #e4e4e4;
-$dark-accent-color: #002f56;
-$hack-night-color: #ca2451;
-$spacing: 20px;
-$interactive-size: 44px;
-$rounded-corner: 6px;
-$nav-height: 44px;
-$show-big-nav: 930px;
+.navbar-fixed {
+  height: $interact;
+}
 
-.navbar {
-  background: $white-color;
-  box-shadow: 0 0 4px $dark-accent-color;
-  color: $color-0;
-  height: $nav-height;
-  position: fixed;
-  width: 100%;
-  z-index: 100;
+nav {
+  background-color: $color-90;
+  height: $interact;
+  line-height: $interact;
+  transform: translate(0); // Bring it above the hero.
 
-  > .container {
-    > .expansion.show_expansion {
-      display: block;
+  .brand-logo {
+    position: absolute;
+    font-size: 22px;
+    font-weight: 700;
+
+    span.branding {
+      color: $color-a0;
+      margin-left: 75px;
     }
 
-    > .wrapper {
-      height: $nav-height;
-      position: relative;
-      z-index: 200;
-      
-      > .branding {
-        align-items: center;
-        display: flex;
-        height: 100%;
-        
-        > a {
-          position: absolute;
-  
-          > img.logo {
-            margin-top: $spacing;
-            height: 60px;
-            width: auto;
-          }
-        }
-      }
-
-      > .navigation {
-        align-items: center;
-        display: flex;
-        height: 100%;
-        position: absolute;
-        right: 0;
-        top: 0;
-    
-        > .menu_toggle {
-          color: $secondary-color;
-          cursor: pointer;
-          display: inline-block;
-          margin-right: $spacing * 2;
-        }
-        
-        ul.links {
-          display: inline-block;
-          margin: 0 $spacing 0 0;
-          
-          @media (max-width: $show-big-nav) {
-            &.hide_mobile {
-              display: none;
-            }
-          }
-          
-          > li {
-            display: block;
-            margin-bottom: 0;
-    
-            &.links_width {
-              height: 1px;
-              visibility: hidden;
-            }
-            
-            > a {
-              color: $secondary-color;
-              font-size: 18px;
-              font-weight: 800;
-              text-decoration: none;
-            }
-          }
-        }
-      }
-    }
-    
-    > .expansion {
-      background-color: $dark-accent-color;
-      border-bottom-left-radius: $rounded-corner;
-      border-bottom-right-radius: $rounded-corner;
-      color: $white-color;
-      display: none;
-      top: $nav-height;
-      padding: $spacing / 2 0 $spacing 0;
+    img.logo {
+      margin-top: 2px;
       position: absolute;
-      width: 100%;
+      height: 50px;
+      width: auto;
       z-index: 100;
-
-      > .menu {
-        display: inline-flex;
-        padding-right: $interactive-size + $spacing;
-        position: relative;
-        float: right;
-
-        ul.links {
-          display: inline-block;
-          margin: 0 $spacing 0 0;
-          
-          // @media (max-width: $show-big-nav) {
-          //   display: none;
-          // }
-          @media (max-width: $show-big-nav) {
-            &.hide_mobile {
-              display: none;
-            }
-          }
-          
-          > li {
-            color: $accent-color;
-            display: block;
-            font-size: 18px;
-            margin-bottom: 0;
-            
-            &.links_width {
-              font-weight: 800;
-              height: 1px;
-              visibility: hidden;
-            }
-
-            &.indent {
-              margin-left: $spacing;
-            }
-
-            > a {
-              font-size: 15px;
-              color: $white-color;
-              text-decoration: none;
-              
-              &.title {
-                font-weight: 800;
-              }
-            }
-          }
-        }
-      }
     }
   }
 
-  .mobile_nav {
-    background: rgba(255, 255, 255, 0.99);
-    height: 100vh;
-    display: none;
-    z-index: 300;
+  ul > li > a {
+    color: $color-a20;
+    font-size: 18px;
+    font-weight: 700;
   }
-  
-  @media (max-width: $show-big-nav) {
-    .mobile_nav {
-      display: none;
-      left: 0;
-      padding: $spacing;
-      position: fixed;
-      top: 0;
+}
+
+nav,
+nav .nav-wrapper i,
+nav a.sidenav-trigger,
+nav a.sidenav-trigger i {
+  color: $color-a20;
+  height: $interact;
+  line-height: $interact;
+}
+
+.sidenav {
+  height: 100% !important;
+
+  .user-view {
+    align-items: flex-end;
+    display: flex;
+    height: 180px;
+
+    h4 {
+      font-weight: 700;
+    }
+
+    .background > img {
       width: 100%;
-
-      &.show_nav {
-        display: block;
-      }
-
-      > .menu_toggle {
-        color: $secondary-color;
-        position: absolute;
-        right: $spacing * 2;
-        top: $spacing * 2;
-      }
-
-      > ul.links {
-        list-style: none;
-        margin-top: $spacing;
-        margin-left: $spacing;
-        margin-bottom: 0;
-        
-        > li {
-          margin-bottom: $spacing;
-          
-          > a {
-            text-decoration: none;
-            font-size: 24px;
-            font-weight: 800;
-            margin-bottom: 0;
-          }
-        }
-      }
     }
   }
+}
+
+.sidenav li > a > i,
+.sidenav li > a > [class^='mdi-'],
+.sidenav li > a li > a > [class*='mdi-'],
+.sidenav li > a > i.material-icons {
+  float: left;
+  height: 48px;
+  line-height: 48px;
+  margin-right: $space;
+  width: 24px;
+  color: rgba(0, 0, 0, 0.54);
 }
 
 .img_icon {
   height: 11px;
   width: auto;
-  margin: 0 $spacing / 4 0 $spacing / 8;
 }
