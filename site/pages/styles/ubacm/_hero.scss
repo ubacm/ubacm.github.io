@@ -23,14 +23,14 @@
     &[data-overlay] {
       background-color: rgba(238, 239, 251, 0.95);
 
-      &:before {
+      &::before {
         background: rgba(238, 239, 251, 0.95);
         content: '';
         height: 100%;
         position: absolute;
         right: 0;
         top: -100%;
-        transform: skew(92deg);
+        transform: skew(86deg);
         transform-origin: 0 100%;
         width: 100vw;
         z-index: -1;
@@ -72,7 +72,7 @@
       &[data-overlay] {
         background-color: unset;
 
-        &:before {
+        &::before {
           background: rgba(251, 251, 255, 0.95);
           content: '';
           height: 100%;
