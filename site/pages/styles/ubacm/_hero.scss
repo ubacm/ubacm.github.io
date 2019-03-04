@@ -36,16 +36,40 @@
         z-index: -1;
       }
     }
-  }
 
-  
+    &[data-overlay="hackspace"] {
+      background-color: unset;
+
+      &::before {
+        background: url('/assets/hackspace/hero.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+      }
+
+      &::after {
+        content: "";
+        background: url('/assets/hackspace/hero.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+        opacity: 0.95;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        position: absolute;
+        z-index: -1;   
+      }
+    }
+  }  
 }
 
 .hero[data-image="davis"] {
   background-image: url('/assets/davis_new.jpg');
 }
 .hero[data-image="hackspace"] {
-  background-image: url('/assets/hackspace/hero.jpg');
+  background-image: url('/assets/hackspace/coworking.jpg');
 }
 .hero[data-image="hack-nights"] {
   background-image: url('/assets/hacknight/hero.jpg');
@@ -81,6 +105,19 @@
           transform: skew(-8deg);
           width: 100vw;
           z-index: -1;
+        }
+      }
+
+      &[data-overlay="hackspace"] {
+        background: unset;
+
+        &::before {
+          background: url('/assets/hackspace/hero.jpg');
+          opacity: 0.95;
+        }
+        
+        &::after {
+          display: none;
         }
       }
     }
