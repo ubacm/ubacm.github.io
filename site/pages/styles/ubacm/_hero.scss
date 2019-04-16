@@ -74,6 +74,9 @@
 .hero[data-image="hack-nights"] {
   background-image: url('/assets/hacknight/hero.jpg');
 }
+.hero[data-image="senior"] {
+  background-image: url('/assets/senior_salutations/hero.jpg');
+}
 
 @media screen and ($breakpoint-tablet-portrait) {}
 @media screen and ($breakpoint-tablet-landscape) {
