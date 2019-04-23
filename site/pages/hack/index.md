@@ -1,4 +1,4 @@
 ---
-layout: hack.html
-title: Hack Night Semester Finale
+layout: hack_finale.html
+title: Hack Nights Semester Finale
 ---
