@@ -8,8 +8,7 @@ title: Hack Nights - Prizes
 # Hack Nights Spring 2019 Prizes
 We will be taking project submissions on anything students have worked on over the past semester. Everyone attending will be voting for their favorite projects, and the projects with the highest votes will win prizes!
 
-__Submissions opening soon__
-<!-- <a class="button button_primary" href="https://vote.ubacm.org/events/" target="_blank">Submit A Project</a> -->
+<a class="waves-effect waves-light pink btn btn-large" href="https://apps.ubacm.org/polls/" target="_blank">Submit A Project</a>
 
 ## Categories
 - **Most Polished Project** - The project with the most polish.
