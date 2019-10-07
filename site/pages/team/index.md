@@ -70,7 +70,7 @@ latest constitution is available [here](/constitution).
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <!-- <img class="profile" src="/assets/placeholder.jpg" /> -->
+      <img class="profile" src="/assets/team/aritra.jpg" />
       <div class="name"><a href="mailto: aritrapa@buffalo.edu">Aritra Paul</a></div>
       <div class="description">
         <i>Events Coordination Chair</i>
