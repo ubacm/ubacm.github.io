@@ -34,8 +34,8 @@ latest constitution is available [here](/constitution).
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <img class="profile" src="/assets/gaurav.jpg" />
-      <div class="name">Gaurav Toravane</div>
+      <img class="profile" src="/assets/team/gaurav.jpg" />
+      <div class="name"><a href="mailto: gtoravan@buffalo.edu">Gaurav Toravane</a></div>
       <div class="description">
         <i>Vice Chair</i>
       </div>
@@ -44,7 +44,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/eric.png" />
-      <div class="name">Eric Weinman</div>
+      <div class="name"><a href="mailto: eweinman@buffalo.edu">Eric Weinman</a></div>
       <div class="description">
         <i>Treasurer</i>
         <!-- <br />
@@ -71,7 +71,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <!-- <img class="profile" src="/assets/placeholder.jpg" /> -->
-      <div class="name">Aritra Paul</div>
+      <div class="name"><a href="mailto: aritrapa@buffalo.edu">Aritra Paul</a></div>
       <div class="description">
         <i>Events Coordination Chair</i>
       </div>
