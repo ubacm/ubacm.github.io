@@ -6,7 +6,10 @@ contents_class: page__team
 
 # The Team
 
-The following is the leadership team of UB ACM for the Fall 2019 to Spring 2020 academic year. We are an official ACM student chapter recognized by the national ACM organization and University at Buffalo SEAS and Student Association. Our latest constitution is available [here](/constitution).
+The following is the leadership team of UB ACM for the Fall 2019 to Spring 2020
+academic year. We are an official ACM student chapter recognized by the national
+ACM organization and University at Buffalo SEAS and Student Association. Our
+latest constitution is available [here](/constitution).
 
 <div class="row">
   <div class="col s12 m3">
@@ -20,7 +23,7 @@ The following is the leadership team of UB ACM for the Fall 2019 to Spring 2020 
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <!-- <img class="profile" src="/assets/team/hana.jpg" /> -->
+      <img class="profile" src="/assets/team/hana.jpg" />
       <div class="name">Hana Basheer</div>
       <div class="description">
         <i>Vice President</i>
@@ -31,7 +34,7 @@ The following is the leadership team of UB ACM for the Fall 2019 to Spring 2020 
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <!-- <img class="profile" src="/assets/placeholder.jpg" /> -->
+      <img class="profile" src="/assets/gaurav.jpg" />
       <div class="name">Gaurav Toravane</div>
       <div class="description">
         <i>Vice Chair</i>
@@ -40,7 +43,7 @@ The following is the leadership team of UB ACM for the Fall 2019 to Spring 2020 
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <!-- <img class="profile" src="/assets/team/eric.png" /> -->
+      <img class="profile" src="/assets/team/eric.png" />
       <div class="name">Eric Weinman</div>
       <div class="description">
         <i>Treasurer</i>
@@ -55,7 +58,7 @@ The following is the leadership team of UB ACM for the Fall 2019 to Spring 2020 
 <div class="row">
   <div class="col s12 m3">
     <div class="team_member">
-      <!-- <img class="profile" src="/assets/team/peter.jpg" /> -->
+      <img class="profile" src="/assets/team/peter.jpg" />
       <div class="name">Peter Gottesman</div>
       <div class="description">
         <i>Secretary</i>
@@ -76,8 +79,8 @@ The following is the leadership team of UB ACM for the Fall 2019 to Spring 2020 
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <!-- <img class="profile" src="/assets/placeholder.jpg" /> -->
-      <div class="name">Anarghya Das</div>
+      <img class="profile" src="/assets/team/anarghya.jpg" />
+      <div class="name"><a href="mailto: anarghya@buffalo.edu">Anarghya Das</a></div>
       <div class="description">
         <i>Software Engineering Chair</i>
       </div>
