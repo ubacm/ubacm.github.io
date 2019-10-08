@@ -14,8 +14,8 @@ latest constitution is available [here](/constitution).
 <div class="row">
   <div class="col s12 m3">
     <div class="team_member">
-      <!-- <img class="profile" src="/assets/placeholder.jpg" /> -->
-      <div class="name">Brett Kolodny</div>
+      <img class="profile" src="/assets/team/brett.jpg" />
+      <div class="name"><a href="mailto: brettkol@buffalo.edu">Brett Kolodny</a></div>
       <div class="description">
         <i>President</i>
       </div>
@@ -24,7 +24,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/hana.jpg" />
-      <div class="name">Hana Basheer</div>
+      <div class="name"><a href="mailto: hanabash@buffalo.edu">Hana Basheer</a></div>
       <div class="description">
         <i>Vice President</i>
         <!-- <br />
@@ -59,7 +59,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/peter.jpg" />
-      <div class="name">Peter Gottesman</div>
+      <div class="name"><a href="mail to: pagottes@buffalo.edu">Peter Gottesman</a></div>
       <div class="description">
         <i>Secretary</i>
         <!-- <br />
