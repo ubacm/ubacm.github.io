@@ -70,19 +70,19 @@ latest constitution is available [here](/constitution).
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <img class="profile" src="/assets/team/aritra.jpg" />
-      <div class="name"><a href="mailto: aritrapa@buffalo.edu">Aritra Paul</a></div>
+      <img class="profile" src="/assets/team/anarghya.jpg" />
+      <div class="name"><a href="mailto: anarghya@buffalo.edu">Anarghya Das</a></div>
       <div class="description">
-        <i>Events Coordination Chair</i>
+        <i>Software Engineering Chair</i>
       </div>
     </div>
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <img class="profile" src="/assets/team/anarghya.jpg" />
-      <div class="name"><a href="mailto: anarghya@buffalo.edu">Anarghya Das</a></div>
+      <img class="profile" src="/assets/team/aritra.jpg" />
+      <div class="name"><a href="mailto: aritrapa@buffalo.edu">Aritra Paul</a></div>
       <div class="description">
-        <i>Software Engineering Chair</i>
+        <i>Events Coordination Chair</i>
       </div>
     </div>
   </div>
