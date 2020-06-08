@@ -20,7 +20,7 @@ latest constitution is available [here](/constitution).
         <i>President</i>
         <br />
         <!-- Computer Engineering B.S. 2021<br /> -->
-        [Website](http://www.petergottesman.com)
+        <!-- [Website](http://www.petergottesman.com) -->
       </div>
     </div>
   </div>
