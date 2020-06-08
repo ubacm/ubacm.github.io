@@ -6,7 +6,7 @@ contents_class: page__team
 
 # The Team
 
-The following is the leadership team of UB ACM for the Fall 2019 to Spring 2020
+The following is the leadership team of UB ACM for the Fall 2020 to Spring 2021
 academic year. We are an official ACM student chapter recognized by the national
 ACM organization and University at Buffalo SEAS and Student Association. Our
 latest constitution is available [here](/constitution).
@@ -14,21 +14,22 @@ latest constitution is available [here](/constitution).
 <div class="row">
   <div class="col s12 m3">
     <div class="team_member">
-      <img class="profile" src="/assets/team/brett.jpg" />
-      <div class="name"><a href="mailto: brettkol@buffalo.edu">Brett Kolodny</a></div>
+      <img class="profile" src="/assets/team/peter.jpg" />
+      <div class="name"><a href="mail to: pagottes@buffalo.edu">Peter Gottesman</a></div>
       <div class="description">
         <i>President</i>
+        <br />
+        <!-- Computer Engineering B.S. 2021<br /> -->
+        [Website](http://www.petergottesman.com)
       </div>
     </div>
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <img class="profile" src="/assets/team/hana.jpg" />
-      <div class="name"><a href="mailto: hanabash@buffalo.edu">Hana Basheer</a></div>
+      <img class="profile" src="/assets/team/anarghya.jpg" />
+      <div class="name"><a href="mailto: anarghya@buffalo.edu">Anarghya Das</a></div>
       <div class="description">
         <i>Vice President</i>
-        <!-- <br />
-        Computer Science B.S., Mathematics Minor 2021 -->
       </div>
     </div>
   </div>
@@ -37,13 +38,13 @@ latest constitution is available [here](/constitution).
       <img class="profile" src="/assets/team/gaurav.jpg" />
       <div class="name"><a href="mailto: gtoravan@buffalo.edu">Gaurav Toravane</a></div>
       <div class="description">
-        <i>Vice Chair</i>
+        <i>Secretary</i>
       </div>
     </div>
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <img class="profile" src="/assets/team/eric.png" />
+      <img class="profile" src="/assets/team/eric.jpg" />
       <div class="name"><a href="mailto: eweinman@buffalo.edu">Eric Weinman</a></div>
       <div class="description">
         <i>Treasurer</i>
@@ -58,20 +59,8 @@ latest constitution is available [here](/constitution).
 <div class="row">
   <div class="col s12 m3">
     <div class="team_member">
-      <img class="profile" src="/assets/team/peter.jpg" />
-      <div class="name"><a href="mail to: pagottes@buffalo.edu">Peter Gottesman</a></div>
-      <div class="description">
-        <i>Secretary</i>
-        <!-- <br />
-        Computer Engineering B.S. 2021<br />
-        [GitHub](https://github.com/PeterGottesman) -->
-      </div>
-    </div>
-  </div>
-  <div class="col s12 m3">
-    <div class="team_member">
-      <img class="profile" src="/assets/team/anarghya.jpg" />
-      <div class="name"><a href="mailto: anarghya@buffalo.edu">Anarghya Das</a></div>
+      <img class="profile" src="/assets/team/aritra.jpg" />
+      <div class="name"><a href="mailto: aritrapa@buffalo.edu">Aritra Paul</a></div>
       <div class="description">
         <i>Software Engineering Chair</i>
       </div>
@@ -79,10 +68,19 @@ latest constitution is available [here](/constitution).
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <img class="profile" src="/assets/team/aritra.jpg" />
-      <div class="name"><a href="mailto: aritrapa@buffalo.edu">Aritra Paul</a></div>
+      <img class="profile" src="/assets/team/chin.jpg" />
+      <div class="name"><a href="mailto: cbandal@buffalo.edu">Chinmayee Bandal</a></div>
       <div class="description">
-        <i>Events Coordination Chair</i>
+        <i>Public Relations Chair</i>
+      </div>
+    </div>
+  </div>
+  <div class="col s12 m3">
+    <div class="team_member">
+      <img class="profile" src="/assets/team/aritra.jpg" />
+      <div class="name"><a href="mailto: afuchs2@buffalo.edu">Andrew Fuchs</a></div>
+      <div class="description">
+        <i>Vice Chair</i>
       </div>
     </div>
   </div>
