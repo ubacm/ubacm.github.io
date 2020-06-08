@@ -77,7 +77,7 @@ latest constitution is available [here](/constitution).
   </div>
   <div class="col s12 m3">
     <div class="team_member">
-      <img class="profile" src="/assets/team/aritra.jpg" />
+      <img class="profile" src="/assets/team/andrew.jpg" />
       <div class="name"><a href="mailto: afuchs2@buffalo.edu">Andrew Fuchs</a></div>
       <div class="description">
         <i>Vice Chair</i>
