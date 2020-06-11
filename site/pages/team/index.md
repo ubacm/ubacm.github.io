@@ -15,7 +15,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/peter.jpg" />
-      <div class="name"><a href="mail to: pagottes@buffalo.edu">Peter Gottesman</a></div>
+      <div class="name"><a href="mailto:pagottes@buffalo.edu">Peter Gottesman</a></div>
       <div class="description">
         <i>President</i>
         <br />
@@ -27,7 +27,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/anarghya.jpg" />
-      <div class="name"><a href="mailto: anarghya@buffalo.edu">Anarghya Das</a></div>
+      <div class="name"><a href="mailto:anarghya@buffalo.edu">Anarghya Das</a></div>
       <div class="description">
         <i>Vice President</i>
       </div>
@@ -36,7 +36,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/gaurav.jpg" />
-      <div class="name"><a href="mailto: gtoravan@buffalo.edu">Gaurav Toravane</a></div>
+      <div class="name"><a href="mailto:gtoravan@buffalo.edu">Gaurav Toravane</a></div>
       <div class="description">
         <i>Secretary</i>
       </div>
@@ -45,7 +45,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/eric.jpg" />
-      <div class="name"><a href="mailto: eweinman@buffalo.edu">Eric Weinman</a></div>
+      <div class="name"><a href="mailto:eweinman@buffalo.edu">Eric Weinman</a></div>
       <div class="description">
         <i>Treasurer</i>
         <!-- <br />
@@ -60,7 +60,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/aritra.jpg" />
-      <div class="name"><a href="mailto: aritrapa@buffalo.edu">Aritra Paul</a></div>
+      <div class="name"><a href="mailto:aritrapa@buffalo.edu">Aritra Paul</a></div>
       <div class="description">
         <i>Software Engineering Chair</i>
       </div>
@@ -69,7 +69,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/chin.jpg" />
-      <div class="name"><a href="mailto: cbandal@buffalo.edu">Chinmayee Bandal</a></div>
+      <div class="name"><a href="mailto:cbandal@buffalo.edu">Chinmayee Bandal</a></div>
       <div class="description">
         <i>Public Relations Chair</i>
       </div>
@@ -78,7 +78,7 @@ latest constitution is available [here](/constitution).
   <div class="col s12 m3">
     <div class="team_member">
       <img class="profile" src="/assets/team/andrew.jpg" />
-      <div class="name"><a href="mailto: afuchs2@buffalo.edu">Andrew Fuchs</a></div>
+      <div class="name"><a href="mailto:afuchs2@buffalo.edu">Andrew Fuchs</a></div>
       <div class="description">
         <i>Vice Chair</i>
       </div>
