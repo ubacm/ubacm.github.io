@@ -11,8 +11,7 @@ academic year. We are an official ACM student chapter recognized by the national
 ACM organization and University at Buffalo SEAS and Student Association. Our
 latest constitution is available [here](/constitution).
 
-<div class="row">
-  <div class="col s12 m3">
+
 
   <div class="flip-card">
      <div class="flip-card-inner">
@@ -99,8 +98,6 @@ latest constitution is available [here](/constitution).
      </div>
   </div>
 
-
-
   <div class="flip-card">
      <div class="flip-card-inner">
          <div class="flip-card-front">
@@ -121,23 +118,42 @@ latest constitution is available [here](/constitution).
      </div>
   </div>
 
+  <div class="flip-card">
+     <div class="flip-card-inner">
+         <div class="flip-card-front">
+              ![Avatar](/assets/team/chin.jpg)
+              <div class="description">
+                  <h5> Chinmayee Bandal </h5>
+                  <h6> *Public Relations Chair* </h6>
+              </div>
+         </div>
+         <div class="flip-card-back">
+              <h6> Computer Science B.S. '20 </h6>
+              <h6> She / Her / Hers </h6>
+              <h6> Bisexual </h6>
+              <h6> *"I love singing, advocating for underrepresented groups in CS and browsing Wikipedia(yes!). Also women's clothing need more pockets!!!"* </h6>
 
-  <div class="col s12 m3">
-    <div class="team_member">
-      <img class="profile" src="/assets/team/chin.jpg" />
-      <div class="name"><a href="mailto:cbandal@buffalo.edu">Chinmayee Bandal</a></div>
-      <div class="description">
-        <i>Public Relations Chair</i>
-      </div>
-    </div>
+              <h6 href="mailto:cbandal@buffalo.edu"> cbandal@buffalo.edu </h6>
+              <h6> Find me on UB ACM Slack @chin </h6>
+         </div>
+     </div>
   </div>
-  <div class="col s12 m3">
-    <div class="team_member">
-      <img class="profile" src="/assets/team/andrew.jpg" />
-      <div class="name"><a href="mailto:afuchs2@buffalo.edu">Andrew Fuchs</a></div>
-      <div class="description">
-        <i>Vice Chair</i>
-      </div>
-    </div>
 
-</div>
+  <div class="flip-card">
+     <div class="flip-card-inner">
+         <div class="flip-card-front">
+              ![Avatar](/assets/team/andrew.jpg)
+              <div class="description">
+                  <h5> Andrew Fuchs </h5>
+                  <h6> *Vice Chair* </h6>
+              </div>
+         </div>
+         <div class="flip-card-back">
+              <h6> Computer Science B.S. '21 </h6>
+              <h6> He / Him / His </h6>
+
+              <h6 href="mailto:afuchs2@buffalo.edu"> afuchs2@buffalo.edu </h6>
+              <h6> Find me on UB ACM Slack @afuchs2 </h6>
+         </div>
+     </div>
+  </div>

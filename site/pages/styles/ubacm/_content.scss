@@ -19,11 +19,13 @@
     margin-left: $space;
   }
 
+
   .flip-card {
+  display: inline-block;
   background-color: transparent;
   width: 300px;
   height: 300px;
-  perspective: 1000px;
+
 }
 
 .flip-card-inner {
