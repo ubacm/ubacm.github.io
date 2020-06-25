@@ -18,9 +18,7 @@ latest constitution is available [here](/constitution).
       <div class="name"><a href="mailto:pagottes@buffalo.edu">Peter Gottesman</a></div>
       <div class="description">
         <i>President</i>
-        <br />
-        <!-- Computer Engineering B.S. 2021<br /> -->
-        <!-- [Website](http://www.petergottesman.com) -->
+
       </div>
     </div>
   </div>
@@ -84,4 +82,28 @@ latest constitution is available [here](/constitution).
       </div>
     </div>
   </div>
+</div>
+
+<div class="flip-card">
+
+<div class="flip-card-inner">
+
+<div class="flip-card-front">
+
+![Avatar](/assets/team/peter.jpg)
+
+</div>
+
+<div class="flip-card-back">
+
+# John Doe
+
+Architect & Engineer
+
+We love that guy
+
+</div>
+
+</div>
+
 </div>
