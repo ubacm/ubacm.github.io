@@ -12,7 +12,7 @@ ACM organization and University at Buffalo SEAS and Student Association. Our
 latest constitution is available [here](/constitution).
 
 
-
+<div class = "team">
   <div class="flip-card">
      <div class="flip-card-inner">
          <div class="flip-card-front">
@@ -156,4 +156,6 @@ latest constitution is available [here](/constitution).
               <h6> Find me on UB ACM Slack @afuchs2 </h6>
          </div>
      </div>
+  </div>
+
   </div>

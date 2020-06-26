@@ -26,6 +26,12 @@
   width: 300px;
   height: 300px;
 
+
+}
+.team {
+  padding: 20px;
+  margin-left: inherit;
+  width: 120%;
 }
 
 .flip-card-inner {
@@ -59,8 +65,6 @@
   padding : 20px 20px 20px 20px;
 }
 
-
-
 .flip-card .description {
   position: absolute;
   bottom: 0;
@@ -72,4 +76,6 @@
   padding-top: -10px;
   padding-bottom: 90px;
 }
+
+
 }
