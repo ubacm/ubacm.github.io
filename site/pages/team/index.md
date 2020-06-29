@@ -29,7 +29,8 @@ latest constitution is available [here](/constitution).
               <h6> *"I like to cook and work on electronics projects in my free time." * </h6>
 
               <h6 href="mailto:pagottes@buffalo.edu">  pagottes@buffalo.edu </h6>
-              <h6> Find me on UB ACM Slack @pagottes </h6>
+              <h6> Find me on UB ACM Slack  </h6>
+              <h6 style= "color: #33FFFF;"> @pagottes </h6>
          </div>
      </div>
   </div>
@@ -51,7 +52,8 @@ latest constitution is available [here](/constitution).
               <h6> *"I love playing football(soccer) and TV shows have been helping me fight through quarantine."* </h6>
 
               <h6 href="mailto:anarghya@buffalo.edu">  anarghya@buffalo.edu </h6>
-              <h6> Find me on UB ACM Slack @Anarghya </h6>
+              <h6> Find me on UB ACM Slack </h6>
+              <h6 style= "color: #33FFFF;"> @Anarghya </h6>
          </div>
      </div>
   </div>
@@ -72,7 +74,8 @@ latest constitution is available [here](/constitution).
               <h6> *"Full-time CS, part-time Counter Strike. I love watching TV shows, speculating fan theories and gardening. Bribe me with Bubble Slushie. "* </h6>
 
               <h6 href="mailto:gtoravan@buffalo.edu"> gtoravan@buffalo.edu </h6>
-              <h6> Find me on UB ACM Slack @Gaurav Toravane </h6>
+              <h6> Find me on UB ACM Slack </h6>
+              <h6 style= "color: #33FFFF;"> @Gaurav Toravane </h6>
          </div>
      </div>
   </div>
@@ -89,11 +92,11 @@ latest constitution is available [here](/constitution).
          <div class="flip-card-back">
               <h6> Computer Engineering B.S., Mathematics-Economics B.A., Political Science Minor '21 </h6>
               <h6> He / Him / His </h6>
-              <h6> Sexuality </h6>
-              <h6> *"Blah blah blah "* </h6>
+              <h6> Heterosexual </h6>
 
               <h6 href="mailto:eweinman@buffalo.edu"> eweinman@buffalo.edu </h6>
-              <h6> Find me on UB ACM Slack   @Eric Weinman </h6>
+              <h6> Find me on UB ACM Slack </h6>
+              <h6 style= "color: #33FFFF;"> @Eric Weinman </h6>
          </div>
      </div>
   </div>
@@ -113,7 +116,9 @@ latest constitution is available [here](/constitution).
               <h6> *"Other than traveling and being spontaneous, I love to listen to music. You will always find me creating new playlists on Spotify."* </h6>
 
               <h6 href="mailto:aritrapa@buffalo.edu"> aritrapa@buffalo.edu </h6>
-              <h6> Find me on UB ACM Slack @Aritra Paul </h6>
+              <h6> Find me on UB ACM Slack </h6>
+              <h6 style= "color: #33FFFF;"> @Aritra Paul </h6>
+
          </div>
      </div>
   </div>
@@ -131,10 +136,11 @@ latest constitution is available [here](/constitution).
               <h6> Computer Science B.S. '20 </h6>
               <h6> She / Her / Hers </h6>
               <h6> Bisexual </h6>
-              <h6> *"I love singing, advocating for underrepresented groups in CS and browsing Wikipedia(yes!). Also women's clothing need more pockets!!!"* </h6>
+              <h6> *"I sing, advocate for minorities in CS and browse Wikipedia. Also women's clothing need more pockets!!!"* </h6>
 
               <h6 href="mailto:cbandal@buffalo.edu"> cbandal@buffalo.edu </h6>
-              <h6> Find me on UB ACM Slack @chin </h6>
+              <h6> Find me on UB ACM Slack </h6>
+              <h6 style= "color: #33FFFF;">  @chin </h6>
          </div>
      </div>
   </div>
@@ -153,7 +159,8 @@ latest constitution is available [here](/constitution).
               <h6> He / Him / His </h6>
 
               <h6 href="mailto:afuchs2@buffalo.edu"> afuchs2@buffalo.edu </h6>
-              <h6> Find me on UB ACM Slack @afuchs2 </h6>
+              <h6> Find me on UB ACM Slack </h6>
+              <h6 style= "color: #33FFFF;">  @afuchs2  </h6>
          </div>
      </div>
   </div>
