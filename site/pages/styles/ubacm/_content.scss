@@ -19,8 +19,13 @@
     margin-left: $space;
   }
 
+.page-description {
+  padding-left: 14px;
+  padding-bottom: 40px;
 
-  .flip-card {
+}
+
+.flip-card {
   display: inline-block;
   background-color: transparent;
   width: 300px;
@@ -30,7 +35,8 @@
 }
 .team {
   padding: 20px;
-  margin-left: inherit;
+  margin-left: -4px;
+
   width: 120%;
 }
 

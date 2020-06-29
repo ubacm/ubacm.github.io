@@ -6,11 +6,12 @@ contents_class: page__team
 
 # The Team
 
-The following is the leadership team of UB ACM for the Fall 2020 to Spring 2021
-academic year. We are an official ACM student chapter recognized by the national
-ACM organization and University at Buffalo SEAS and Student Association. Our
-latest constitution is available [here](/constitution).
-
+<div class = "page-description">
+    The following is the leadership team of UB ACM for the Fall 2020 to Spring 2021
+    academic year. We are an official ACM student chapter recognized by the national
+    ACM organization and University at Buffalo SEAS and Student Association. Our
+    latest constitution is available [here](/constitution).
+</div>
 
 <div class = "team">
   <div class="flip-card">
