@@ -47,7 +47,7 @@ contents_class: page__team
               </div>
          </div>
          <div class="flip-card-back">
-              <h6> Computer Science B.S. '21 </h6>
+              <h6> Computer Science B.S. '21, Mathematics B.A. '21 </h6>
               <h6> He / Him / His </h6>
               <h6> Heterosexual </h6>
               <h6> *"I love playing football(soccer) and TV shows have been helping me fight through quarantine."* </h6>
