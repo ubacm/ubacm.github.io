@@ -1,7 +1,7 @@
 language: node_js
 node_js:
-  - "6"
-dist: trusty
+  - 12
+dist: bionic
 
 cache:
   directories:
